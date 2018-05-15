@@ -12,5 +12,7 @@ Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory.
 
 16S_genera_function_inventory_word.txt is a Mac word document with EndNote bibliography
 16S_genera_function_inventory_R.txt is a tab-delimited file of the inventory
+     If using the R.txt file, all genera have the prefix "g__" to remove: 
+           x$pot_function<-gsub("g__", "", x$pot_function)
 
 last updated: May 14, 2018, 330 genera, 197 references
