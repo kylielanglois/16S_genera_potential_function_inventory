@@ -1,10 +1,16 @@
 # 16S_genera_potential_function_inventory
  for post high-throughput sequencing analysis
- intially created for QIIME1, QIIME2, mothur pipeline
+ intially created for QIIME1, QIIME2, and mothur pipelines
 
-For each genus identified by post-sequencing processing (using Greengenes_13_8 via mothur or QIIME, or SILVA_132_99 via QIIME2), a potential function was identified through a literature review. When formally describing a new genus, a battery of physiological tests are conducted on the cultured type species. These studies provided the potential function of each genus. Some notable exceptions are when a genus or type species could not be cultured in isolation and were cultured in consortia or observed in its natural habitat. 
+DNA was recovered from on-site wastewater treatment systems and sequenced using Illumina Mi-Seq. Sequences were run through either the QIIME1, QIIME2 (including R-dada2), or mothur pipeline and assigned taxonomy by Greengenes 13_8 or SILVA_132. 
 
-“Potential function (initial)” describes how each genus was described in the initial paper; “potential function” denotes the broad functional group used for downstream analyses. 
-***NOTE: Genera without a reference in “Citation” are currently being investigated. 
+Abundant genera were assigned a potential function by conducting a literature review and assuming all members of a genus were potentially capable of the metabolism of the type species (unless otherwise noted specifically). Some cases, potential function could be assigned at family level or higher. 
 
-Running total: 330 genera, 197 EndNote citations
+Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory. 
+
+# Please reference this repository if using the 16S function inventory 
+
+16S_genera_function_inventory_word.txt is a Mac word document with EndNote bibliography
+16S_genera_function_inventory_R.txt is a tab-delimited file of the inventory
+
+last updated: May 14, 2018, 330 genera, 197 references
