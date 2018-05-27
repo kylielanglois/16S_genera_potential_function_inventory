@@ -18,4 +18,4 @@ Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory.
 
 16S_function_inventory_051418.enlx is a compressed EndNote library of all references 
 
-last updated: May 14, 2018, 330 genera, 197 references
+last updated: May 25, 2018, 335 genera, 202 references
