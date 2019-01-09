@@ -12,17 +12,17 @@ Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory.
 
 * 16S_genera_function_inventory_word.txt is a Mac word document with EndNote bibliography
 word document last updated: July 25, 2018, 349 genera, 202 references
+* ## This document is out of date, will be updated soon (01/08/19)
 
 * 16S_genera_function_inventory_R.txt is a tab-delimited file of the inventory  
+* 010819 is the most current file
   
- &nbsp;&nbsp;&nbsp;    If using the R.txt file, all genera have the prefix "g__" to remove: 
-           x$pot_function<-gsub("g__", "", x$pot_function) 
              
- *081018 update includes genera not in the 072518 update*  
+ *081018, 010819 update includes genera not in the 072518 update*  
  *includes information on the presence of functional genes found in genera from 3 studies (see below)*  
  *focus is C, N, S, Fe, and H2 cycling*  
 
-* 16S_function_inventory_051418.enlx is a compressed EndNote library of all references 
+* 16S_function_inventory_051418.enlx is a compressed EndNote library of all references up to that date
  references not included in the EndNote library:  
    
 &nbsp;&nbsp;&nbsp;   Anantharaman, K., et al. (2016). "Thousands of microbial genomes shed light on interconnected biogeochemical processes in an aquifer    system." Nature communications 7: 13219.  
