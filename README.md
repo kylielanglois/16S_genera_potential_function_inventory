@@ -11,8 +11,8 @@ Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory.
 # Please reference this repository if using the 16S function inventory 
 
 * 16S_genera_function_inventory_word.txt is a Mac word document with EndNote bibliography
-word document last updated: July 25, 2018, 349 genera, 202 references
-* ## This document is out of date, will be updated soon (01/08/19)
+word document last updated: January 8, 2019, 759 genera, 212 EndNote citations
+* ## This document is most up-to-date document
 
 * 16S_genera_function_inventory_R.txt is a tab-delimited file of the inventory  
 * 010819 is the most current file
@@ -29,4 +29,4 @@ word document last updated: July 25, 2018, 349 genera, 202 references
 &nbsp;&nbsp;&nbsp;   Graf, D. R., et al. (2014). "Intergenomic comparisons highlight modularity of the denitrification pathway and underpin the importance of community structure for N2O emissions." PloS one 9(12): e114118.  
 &nbsp;&nbsp;&nbsp;   Jones, C. M., et al. (2008). "Phylogenetic analysis of nitrite, nitric oxide, and nitrous oxide respiratory enzymes reveal a complex evolutionary history for denitrification." Molecular Biology and Evolution 25(9): 1955-1966.  
 
-
+* 16S_function_inventory_010819.enlx is a compressed EndNote library of all reference up to that date including the 3 listed above
