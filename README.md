@@ -12,7 +12,7 @@ Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory.
 
 * 16S_genera_function_inventory_word.txt is a Mac word document with EndNote bibliography
 word document last updated: January 8, 2019, 759 genera, 212 EndNote citations
-* ## This document is most up-to-date document
+* ### This document is most up-to-date document
 * 16S_genera_function_inventory.txt is a tab-delimited file of the inventory  
 * 010819 is the most current file
 ## To download: click "Raw" and you will download a text file that can be opened in Excel in the proper format
