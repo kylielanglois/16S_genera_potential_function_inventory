@@ -6,20 +6,24 @@ DNA was recovered from on-site wastewater treatment systems and sequenced using 
 
 Abundant genera were assigned a potential function by conducting a literature review and assuming all members of a genus were potentially capable of the metabolism of the type species (unless otherwise noted specifically). Some cases, potential function could be assigned at family level or higher. 
 
+FAPROTAX v.1.1 was accessed from http://www.zoology.ubc.ca/louca/FAPROTAX/lib/php/index.php
+
 Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory. 
 
 # Please reference this repository if using the 16S function inventory 
 
 * 16S_genera_function_inventory_word.txt is a Mac word document with EndNote bibliography
-word document last updated: January 8, 2019, 759 genera, 212 EndNote citations
+word document last updated: February 18, 2019, 759 genera, 212 EndNote citations
 * ### This document is most up-to-date document
 * 16S_genera_function_inventory.txt is a tab-delimited file of the inventory  
-* 010819 is the most current file
-## To download: click "Raw" and you will download a text file that can be opened in Excel in the proper format
+* 033119 is the most current file
+## To download: click "Raw" and you will download a comma separated file that can be opened in Excel in the proper format
 
-  
+
+*033119 includes genera in the FAPROTAX inventory*
+*FAPROTAX references at FAPROTAX website*
              
- *081018, 010819 update includes genera not in the 072518 update*  
+ *081018, 010819, 033119 update includes genera not in the 072518 update*  
  *includes information on the presence of functional genes found in genera from 3 studies (see below)*  
  *focus is C, N, S, Fe, and H2 cycling*  
 
