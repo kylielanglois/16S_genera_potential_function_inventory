@@ -1,0 +1,1877 @@
+,gen,fun_consol,ref_consol
+1,A17,non-N,
+2,Acanthopleuribacteraceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+3,Acetitomaculum,reductive_acetogenesis,FAPROTAXv1.1
+4,Acetivibrio,"Cellulolytic, cellulolysis",", FAPROTAXv1.1"
+5,Acetoanaerobium,reductive_acetogenesis,FAPROTAXv1.1
+6,Acetobacter,methanol_oxidation plant_pathogen,FAPROTAXv1.1
+7,Acetobacteraceae,aerobic_chemoheterotrophy human_pathogens_all iron_respiration nitrate_reduction  photoheterotrophy ureolysis,FAPROTAXv1.1
+8,Acetobacterium,aromatic_compound_degradation reductive_acetogenesis,FAPROTAXv1.1
+9,Acetobacteroides,Hydrogen-producing,"{Su, X.-L., et al. (2014)}"
+10,Acetogenic,Acetogenic,
+11,Acetogenium,reductive_acetogenesis,FAPROTAXv1.1
+12,Acetohalobium,reductive_acetogenesis,FAPROTAXv1.1
+13,Acetonema,reductive_acetogenesis,FAPROTAXv1.1
+14,Acholeplasma,aerobic_chemoheterotrophy,FAPROTAXv1.1
+15,Achromobacter,"nirK  norB  nosZ, arsenite_oxidation_detoxification dark_hydrogen_oxidation human_pathogens_all nitrate_denitrification nitrate_reduction  nitrate_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+16,Acidaminococcaceae,fermentation,FAPROTAXv1.1
+17,Acidaminococcus,fermentation human_gut,FAPROTAXv1.1
+18,Acidianus,aerobic_chemoheterotrophy dark_hydrogen_oxidation dark_iron_oxidation dark_sulfide_oxidation dark_sulfur_oxidation iron_respiration sulfur_respiration,FAPROTAXv1.1
+19,Acidibacter,Fe3 reduction,"{Falagön, C. and D. B. Johnson (2014)}"
+20,Acidicaldus,aerobic_chemoheterotrophy dark_sulfur_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis iron_respiration methanol_oxidation,FAPROTAXv1.1
+21,Acidiferrobacter,dark_iron_oxidation,FAPROTAXv1.1
+22,Acidimethylosilex,methanotrophy,FAPROTAXv1.1
+23,Acidimicrobiaceae,dark_iron_oxidation,FAPROTAXv1.1
+24,Acidimicrobium,dark_iron_oxidation,FAPROTAXv1.1
+25,Acidiphilium,aerobic_anoxygenic_phototrophy arsenate_detoxification dark_oxidation_of_sulfur_compounds dark_sulfur_oxidation dark_thiosulfate_oxidation iron_respiration nitrate_reduction  ureolysis,FAPROTAXv1.1
+26,Acidiplasma,dark_iron_oxidation,FAPROTAXv1.1
+27,Acidisoma,aerobic_chemoheterotrophy,FAPROTAXv1.1
+28,Acidisphaera,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+29,Aciditerrimonas,aerobic_chemoheterotrophy iron_respiration,FAPROTAXv1.1
+30,Acidithiobacillus,dark_iron_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation,FAPROTAXv1.1
+31,Acidithiomicrobium,dark_iron_oxidation dark_sulfur_oxidation,FAPROTAXv1.1
+32,Acidobacteria,"C_fix   N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, aerobic_chemoheterotrophy","(Antharaman et al., 2016), FAPROTAXv1.1"
+33,Acidobacteriaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+34,Acidobacteriales,aerobic_chemoheterotrophy,FAPROTAXv1.1
+35,Acidobacterium,"non-N, aerobic_chemoheterotrophy xylanolysis","(Kishimoto et al., 1991) (Jones et al., 2008), FAPROTAXv1.1"
+36,Acidothermaceae,aerobic_chemoheterotrophy cellulolysis,FAPROTAXv1.1
+37,Acidothermus,"nirK, cellulolysis","(Graf et al., 2014), FAPROTAXv1.1"
+38,Acidovorax,"non-N, aerobic_chemoheterotrophy cellulolysis dark_hydrogen_oxidation dark_iron_oxidation knallgas_bacteria nitrate_denitrification nitrate_respiration plant_pathogen","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+39,Acinetobacter,"non-N, aerobic_chemoheterotrophy aromatic_compound_degradation aromatic_hydrocarbon_degradation dark_sulfide_oxidation human_pathogens_all human_pathogens_nosocomia human_pathogens_pneumonia human_pathogens_septicemia manganese_oxidation nitrate_reduction  plastic_degradation","(Cicconi et al) (Antharaman et al., 2016), FAPROTAXv1.1"
+40,Acrocarpospora,nitrate_reduction,FAPROTAXv1.1
+41,Actinoallomurus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+42,Actinobacillus,"nirK  norB, animal_parasites_or_symbionts fumarate_respiration nitrate_reduction  ureolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+43,Actinobacteria,C_fix   N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+44,Actinobacteria_phylum_hgcI clade,varied,0
+45,Actinobaculum,fermentation,FAPROTAXv1.1
+46,Actinocatenispora,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+47,Actinocorallia,nitrate_reduction  ureolysis xylanolysis,FAPROTAXv1.1
+48,Actinomadura,nitrate_reduction  ureolysis xylanolysis,FAPROTAXv1.1
+49,Actinomyces,"nirK  norB, chitinolysis human_pathogens_all human_pathogens_septicemia nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+50,Actinomycetaceae,fermentation,FAPROTAXv1.1
+51,Actinoplanes,"nirK, nitrate_reduction  xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+52,Actinopolymorpha,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+53,Actinopolyspora,xylanolysis,FAPROTAXv1.1
+54,Actinospicaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+55,Actinosynnema,"nirK, nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+56,Actinotalea,"Cellulolytic+, aerobic_chemoheterotrophy cellulolysis fermentation nitrate_reduction  xylanolysis","(Bagra et al., 1985). (Yi et al., 2007), FAPROTAXv1.1"
+57,ADurb.Bin063-1,varied_archaea,
+58,Aequorivita,nirK   nosZ,"(Graf et al., 2014)"
+59,Aeriscardovia,fermentation,FAPROTAXv1.1
+60,Aerobacter,fermentation,FAPROTAXv1.1
+61,Aerococcaceae,fermentation,FAPROTAXv1.1
+62,Aerococcus,fermentation,FAPROTAXv1.1
+63,Aeromicrobium,cellulolysis nitrate_reduction,FAPROTAXv1.1
+64,Aeromonadaceae,fermentation nitrate_reduction,FAPROTAXv1.1
+65,Aeromonas,"non-N, animal_parasites_or_symbionts arsenate_detoxification chitinolysis DNRA fermentation human_pathogens_all human_pathogens_meningitis iron_respiration","{Janda, J. M. and S. L. Abbott (1998)} (Graf et al., 2014), FAPROTAXv1.1"
+66,Aetherobacter,non-N,"(Garcia et al., 2016)"
+67,Afipia,"nirK  norB  nosZ, nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+68,Agaricus,cellulolysis,FAPROTAXv1.1
+69,Agreia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+70,Agrobacterium,"non-N, arsenite_oxidation_detoxification dissimilatory oxidation of arsenite for energy not photosynthesis plant_pathogen plastic_degradation","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+71,Agrococcus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+72,Agromonas,aerobic_chemoheterotrophy nitrogen_fixation,FAPROTAXv1.1
+73,Agromyces,cellulolysis nitrate_reduction  xylanolysis,FAPROTAXv1.1
+74,Agromyces ulmi,xylanolysis,FAPROTAXv1.1
+75,Ajellomyces,nirK  norB,"(Graf et al., 2014)"
+76,Akkermansia,non-N,"(Derrien et al., 2004)"
+77,Akkermansiaceae,fermentation,FAPROTAXv1.1
+78,Albidiferax,fumarate_respiration iron_respiration manganese_respiration,FAPROTAXv1.1
+79,Alcaligenaceae,aerobic_chemoheterotrophy animal_parasites_or_symbionts nitrate_reduction  nitrate_respiration nitrogen_fixation,FAPROTAXv1.1
+80,Alcaligenes,"nirK  norB  nosZ, arsenite_oxidation_detoxification dark_sulfide_oxidation human_pathogens_all nitrate_denitrification nitrate_reduction  nitrate_respiration nitrite_denitrification plastic_degradation xylanolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+81,Alcanivoraceae,aliphatic_non_methane_hydrocarbon_degradation nitrate_reduction,FAPROTAXv1.1
+82,Alcanivorax,"nirK  norB  nosZ, aliphatic_non_methane_hydrocarbon_degradation oil_bioremediation","(Graf et al., 2014), FAPROTAXv1.1"
+83,Algiphilus,aliphatic_non_methane_hydrocarbon_degradation aromatic_hydrocarbon_degradation,FAPROTAXv1.1
+84,Algisphaera,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+85,Algorimarina,non-N,"(Kendall et al., 2006)"
+86,Alicycliphilus,"nirK nirS norB nosZ, nitrate_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+87,Alicyclobacillaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+88,Alicyclobacillus,"Denitrification, aerobic_chemoheterotrophy dark_iron_oxidation dark_sulfide_oxidation dark_sulfur_oxidation nitrate_reduction","(Wisotzkey et al., 1992) (Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+89,Aliivibrio,fermentation nitrate_reduction,FAPROTAXv1.1
+90,Alistipes,fermentation human_gut,FAPROTAXv1.1
+91,Alkalibacillus,nitrate_reduction,FAPROTAXv1.1
+92,Alkalibacterium,aerobic_chemoheterotrophy cellulolysis fermentation xylanolysis,FAPROTAXv1.1
+93,Alkalibaculum,dark_hydrogen_oxidation methanol_oxidation reductive_acetogenesis,FAPROTAXv1.1
+94,Alkaliflexus,xylanolysis,FAPROTAXv1.1
+95,Alkalilimnicola,norB nosZ,"(Jones et al., 2008) , (Graf et al., 2014)"
+96,Alkalimarinus,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+97,Alkaliphilus,fumarate_respiration iron_respiration thiosulfate_respiration,FAPROTAXv1.1
+98,Alkalitalea,fermentation xylanolysis,FAPROTAXv1.1
+99,Alkanibacter,non-N,"(Friedrich and Lipski, 2008)"
+100,Alkanindiges,"non-N, aliphatic_non_methane_hydrocarbon_degradation","{Bogan, B. W., et al. (2003)}, FAPROTAXv1.1"
+101,Allocatelliglobosispora,aerobic_chemoheterotrophy,FAPROTAXv1.1
+102,Allochromatium,aerobic_anoxygenic_phototrophy dark_sulfide_oxidation nitrogen_fixation ureolysis,FAPROTAXv1.1
+103,Allorhizobium,nitrogen_fixation,FAPROTAXv1.1
+104,Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,N fixation,"{Mousavi, S. A., et al. (2014)}"
+105,Alloscardovia,fermentation,FAPROTAXv1.1
+106,Alphaproteobacteria,"N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic, dark_thiosulfate_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis intracellular_parasites","(Antharaman et al., 2016), FAPROTAXv1.1"
+107,Altererythrobacter,non-N,"{Kwon, K. K., et al. (2007)}"
+108,Alterococcus,fermentation,FAPROTAXv1.1
+109,Alteromonadaceae,aerobic_chemoheterotrophy aromatic_compound_degradation cellulolysis chitinolysis fermentation hydrocarbon_degradation nitrate_reduction  nitrate_respiration thiosulfate_respiration xylanolysis,FAPROTAXv1.1
+110,Alteromonas,aerobic_chemoheterotrophy chitinolysis,FAPROTAXv1.1
+111,Altuibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+112,Alvinella,manganese_oxidation,FAPROTAXv1.1
+113,Ambiguous_taxa,unclassified,
+114,Aminobacter,nitrate_respiration,FAPROTAXv1.1
+115,Aminobacterium,fermentation,FAPROTAXv1.1
+116,Aminomonas,fermentation,FAPROTAXv1.1
+117,Ammonifex,dark_hydrogen_oxidation dark_iron_oxidation DNRA fermentation sulfate_respiration sulfur_respiration,FAPROTAXv1.1
+118,Ammoniphilus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+119,Amnibacterium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+120,Amorphus,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+121,Amphibacillus,xylanolysis,FAPROTAXv1.1
+122,Amycolatopsis,aerobic_chemoheterotrophy ureolysis xylanolysis,FAPROTAXv1.1
+123,Amycolicicoccus,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+124,Anabaena,nitrogen_fixation,FAPROTAXv1.1
+125,Anaerobacillus,arsenate_respiration fermentation nitrogen_fixation,FAPROTAXv1.1
+126,Anaerobaculum,fermentation,FAPROTAXv1.1
+127,Anaerobiospirillum,animal_parasites_or_symbionts,FAPROTAXv1.1
+128,Anaerocellum,cellulolysis,FAPROTAXv1.1
+129,Anaerococcus,"non-N, fermentation","(Ezaki et al., 2001), FAPROTAXv1.1"
+130,Anaerolinaceae WCHB1-05,Cellulolytic,"(Xia et al., 2016)"
+131,Anaerolinea,"Cellulolytic, fermentation","(Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+132,Anaerolineaceae,fermentation,FAPROTAXv1.1
+133,Anaeromyxobacter,"Denitrification, aerobic_chemoheterotrophy arsenate_respiration DNRA fumarate_respiration iron_respiration knallgas_bacteria nitrate_respiration","(He and Sanford, 2003) (Jones et al., 2008) , (Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+134,Anaerophaga,fermentation,FAPROTAXv1.1
+135,Anaeroplasmataceae,fermentation,FAPROTAXv1.1
+136,Anaerospora,non-N,"(Woo et al., 2005)_"
+137,Anaerotruncus,human_gut,FAPROTAXv1.1
+138,Anammoximicrobium,anammox,FAPROTAXv1.1
+139,Anaplasmataceae,animal_parasites_or_symbionts,FAPROTAXv1.1
+140,Ancalochloris,anoxygenic_photoautotrophy_S_oxidizing,FAPROTAXv1.1
+141,Ancalomicrobium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+142,Ancyclobacter,ureolysis,FAPROTAXv1.1
+143,Ancylobacter,aerobic_chemoheterotrophy dark_hydrogen_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis nitrate_reduction,FAPROTAXv1.1
+144,Andreprevotia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+145,Aneurinibacillus,ligninolysis nitrate_reduction,FAPROTAXv1.1
+146,Angulomicrobium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+147,Angustibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+148,Anoxybacillus,nitrate_respiration xylanolysis,FAPROTAXv1.1
+149,Antricoccus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+150,Aphanothece,anoxygenic_photoautotrophy_H2_oxidizing,FAPROTAXv1.1
+151,Aquabacter,nitrate_reduction,FAPROTAXv1.1
+152,Aquabacterium,"Denitrification, dark_iron_oxidation","(Kalmbach et al., 1999), FAPROTAXv1.1"
+153,Aquabacteriuma,ureolysis,FAPROTAXv1.1
+154,Aquaspirillum,aerobic_chemoheterotrophy dark_hydrogen_oxidation fumarate_respiration nitrate_denitrification nitrate_reduction  nitrate_respiration ureolysis,FAPROTAXv1.1
+155,Aquibacter,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+156,Aquicella,non-N,"(Santos et al., 2003)"
+157,Aquifex,dark_iron_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation knallgas_bacteria nitrate_respiration,FAPROTAXv1.1
+158,Aquificaceae,dark_hydrogen_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation knallgas_bacteria nitrate_denitrification nitrate_respiration,FAPROTAXv1.1
+159,Aquificae,nitrate_reduction,FAPROTAXv1.1
+160,Aquificales,dark_sulfur_oxidation dark_thiosulfate_oxidation knallgas_bacteria,FAPROTAXv1.1
+161,Aquincola,aerobic_chemoheterotrophy,FAPROTAXv1.1
+162,Aquipuribacter,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+163,Aquitalea,aerobic_chemoheterotrophy fermentation nitrate_denitrification,FAPROTAXv1.1
+164,Arcanobacterium,nitrate_reduction,FAPROTAXv1.1
+165,Archaea,aerobic_ammonia_oxidation hydrogenotrophic_methanogenesis methanotrophy nitrate_respiration,FAPROTAXv1.1
+166,Archaeoglobaceae,chemoheterotrophy dark_hydrogen_oxidation dark_iron_oxidation dark_sulfide_oxidation nitrate_respiration sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+167,Archaeoglobi,iron_respiration,FAPROTAXv1.1
+168,Archaeoglobus,dark_hydrogen_oxidation dissimilatory sulfite reduction sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+169,archaeon,C_fix    S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+170,Archangium,cellulolysis,FAPROTAXv1.1
+171,Arcicella,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+172,Arcobacter,"Denitrification, aerobic_chemoheterotrophy animal_parasites_or_symbionts dark_sulfide_oxidation fumarate_respiration human_pathogens_all human_pathogens_gastroenteritis nitrate_denitrification nitrate_reduction  nitrogen_fixation ureolysis","(Pati et al., 2010), FAPROTAXv1.1"
+173,Arctic96BD-19,dark_sulfide_oxidation nitrate_respiration,FAPROTAXv1.1
+174,Arcticibacter,aerobic_chemoheterotrophy cellulolysis,FAPROTAXv1.1
+175,Ardenticatena,aerobic_chemoheterotrophy iron_respiration nitrate_respiration,FAPROTAXv1.1
+176,Arenibacter,nitrate_reduction  ureolysis,FAPROTAXv1.1
+177,Arenicella,aerobic_chemoheterotrophy chitinolysis,FAPROTAXv1.1
+178,Arenimonas,"non-N, nitrate_reduction  ureolysis","(Kwon et al., 2007), FAPROTAXv1.1"
+179,Arhodomonas,aerobic_chemoheterotrophy knallgas_bacteria nitrate_respiration ureolysis,FAPROTAXv1.1
+180,Armatimonadetes,C_fix   N_cycle  S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+181,Aromatoleum,nirS norB  nosZ,"(Graf et al., 2014)"
+182,Arsenicicoccus,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+183,Arsenicoccus,arsenate_detoxification,FAPROTAXv1.1
+184,Arthrobacter,"Nitrite oxidation, aerobic_chemoheterotrophy aliphatic_non_methane_hydrocarbon_degradation arsenate_detoxification chitinolysis DNRA fermentation ligninolysis manganese_oxidation methanol_oxidation nitrate_reduction  nitrate_respiration plant_pathogen plastic_degradation ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+185,Arthroderma,nirK  norB,"(Graf et al., 2014)"
+186,Aspergillus,"nirK  norB, cellulolysis xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+187,Asticcacaulis,aerobic_chemoheterotrophy,FAPROTAXv1.1
+188,Atopobium,nirK,"(Graf et al., 2014)"
+189,Aurantimicrobium,non-N,"{kai, R., et al. (2015)}"
+190,Aurantimonas,aerobic_chemoheterotrophy manganese_oxidation ureolysis,FAPROTAXv1.1
+191,Aureimonas,aerobic_chemoheterotrophy,FAPROTAXv1.1
+192,Aureispira,cellulolysis,FAPROTAXv1.1
+193,Aureitalea,aerobic_chemoheterotrophy nitrate_respiration,FAPROTAXv1.1
+194,Aureobacterium,plastic_degradation,FAPROTAXv1.1
+195,Austwickia,nirK  norB,"(Graf et al., 2014)"
+196,Avibacterium,nirK,"(Graf et al., 2014)"
+197,Azoarcus,"N fixation, aerobic_chemoheterotrophy aromatic_compound_degradation aromatic_hydrocarbon_degradation dark_sulfide_oxidation dark_sulfite_oxidation dark_thiosulfate_oxidation fermentation nitrate_denitrification nitrate_reduction  nitrate_respiration nitrite_respiration nitrogen_fixation","(Reinhold-Hurek et al., 1993) (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+198,Azospira,dark_iron_oxidation nitrate_respiration,FAPROTAXv1.1
+199,Azospirillium,nirS  nosZ,"(Jones et al., 2008)"
+200,Azospirillum,"N fixation, aerobic_chemoheterotrophy fermentation nitrate_denitrification nitrate_respiration nitrogen_fixation","(Steenhoudt and Vanderleyden, 2000) (Graf et al., 2014), FAPROTAXv1.1"
+201,Azotobacter,aerobic_chemoheterotrophy nitrate_reduction  nitrogen_fixation,FAPROTAXv1.1
+202,Azovibrio,norB,"(Jones et al., 2008)"
+203,Bacillaceae,aerobic_chemoheterotrophy fermentation nitrate_reduction,FAPROTAXv1.1
+204,Bacillales,manganese_oxidation,FAPROTAXv1.1
+205,Bacillus,"Denitrification, aerobic_chemoheterotrophy aromatic_compound_degradation arsenate_detoxification arsenate_respiration cellulolysis chitinolysis dark_hydrogen_oxidation dark_thiosulfate_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis DNRA fermentation fumarate_respiration human_pathogens_pneumonia invertebrate_parasites  iron_respiration knallgas_bacteria ligninolysis manganese_oxidation manganese_respiration methanol_oxidation methanotrophy nitrate_denitrification nitrate_reduction nitrate_respiration nitrite_denitrification nitrite_respiration nitrous_oxide_denitrification plant_pathogen plastic_degradation thiosulfate_respiration ureolysis xylanolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+206,Bacteria,aerobic_chemoheterotrophy manganese_oxidation sulfate_respiration,FAPROTAXv1.1
+207,Bacteriodes,human_gut,FAPROTAXv1.1
+208,Bacteriovoracaceae,predatory_or_exoparasitic,FAPROTAXv1.1
+209,Bacteriovorax,"non-N, nitrate_reduction","(Davidov and Jurkevitch, 2004), FAPROTAXv1.1"
+210,Bacterium,manganese_oxidation,FAPROTAXv1.1
+211,Bacteroidaceae,fermentation,FAPROTAXv1.1
+212,Bacteroides,"non-N, cellulolysis human_gut human_pathogens_all human_pathogens_diarrhea ureolysis xylanolysis",", FAPROTAXv1.1"
+213,Bacteroidetes,"N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, aerobic_chemoheterotrophy","(Antharaman et al., 2016), FAPROTAXv1.1"
+214,Balneola,aerobic_chemoheterotrophy,FAPROTAXv1.1
+215,Bauldia,"non-N, aerobic_chemoheterotrophy methanol_oxidation","{Yee, B., et al. (2010)}, FAPROTAXv1.1"
+216,Bdellovibrio,non-N,"(Jones et al., 2008) , (Graf et al., 2014)"
+217,Bdellovibrionaceae,predatory_or_exoparasitic,FAPROTAXv1.1
+218,Bdellovibrionales,C_fix  N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+219,Beggiatoa,ureolysis,FAPROTAXv1.1
+220,Beijerinckiaceae,aerobic_chemoheterotrophy methylotrophy nitrogen_fixation,FAPROTAXv1.1
+221,Belliella,nirK   nosZ,"(Graf et al., 2014)"
+222,Betaproteobacteria,"C_fix   N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, arsenite_oxidation_detoxification dark_iron_oxidation dark_thiosulfate_oxidation nitrate_reduction  nitrate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+223,Betaproteobacterium,dark_iron_oxidation nitrate_respiration,FAPROTAXv1.1
+224,Beutenbergia,nitrate_reduction,FAPROTAXv1.1
+225,Bhargavaea,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+226,Bifidobacteriaceae,fermentation,FAPROTAXv1.1
+227,Bifidobacterium,"non-N, fermentation human_gut human_pathogens_all ureolysis xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+228,Bizionia,"nirK  norB  nosZ, ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+229,Blastobacter,methanol_oxidation nitrate_denitrification nitrate_reduction,FAPROTAXv1.1
+230,Blastocatella,aerobic_chemoheterotrophy cellulolysis chitinolysis,FAPROTAXv1.1
+231,Blastocatellaceae_family_JGI 0001001-H03,varied,
+232,Blastochloris,anoxygenic_photoautotrophy_S_oxidizing aromatic_hydrocarbon_degradation photoheterotrophy,FAPROTAXv1.1
+233,Blastococcus,"nirK, aerobic_chemoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+234,Blastomonas,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+235,Blattabacteriaceae,ureolysis,FAPROTAXv1.1
+236,Blautia,"Denitrification, dark_hydrogen_oxidation fermentation human_gut reductive_acetogenesis","(Liu et al., 2008) (M™ller and Frerichs, 2013), FAPROTAXv1.1"
+237,Blvii28,non-N,
+238,Bogoriellaceae,fermentation,FAPROTAXv1.1
+239,Bordetella,"nirS norB  nosZ, human_pathogens_all ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+240,Borrelia,fermentation,FAPROTAXv1.1
+241,Bosea,"Thiosulfate oxidation, aerobic_chemoheterotrophy dark_thiosulfate_oxidation manganese_oxidation","(Das et al., 1996) (Jones et al., 2008), FAPROTAXv1.1"
+242,Brachybacterium,"nirK  norB, cellulolysis nitrate_reduction  ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+243,Brachymonas,aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation nitrate_denitrification nitrate_reduction,FAPROTAXv1.1
+244,Brachyspira,human_pathogens_all human_pathogens_diarrhea,FAPROTAXv1.1
+245,Bradyrhizobiaceae,aerobic_chemoheterotrophy aerobic_nitrite_oxidation dark_oxidation_of_sulfur_compounds human_pathogens_all nitrate_reduction  nitrate_respiration nitrogen_fixation photoheterotrophy ureolysis,FAPROTAXv1.1
+246,Bradyrhizobium,"N fixation, aerobic_chemoheterotrophy nitrate_denitrification nitrate_respiration nitrogen_fixation","(Jordan, 1982) (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+247,Brenneria,fermentation plant_pathogen ureolysis,FAPROTAXv1.1
+248,Brevibacillus,invertebrate_parasites  nitrate_reduction plant_pathogen ureolysis,FAPROTAXv1.1
+249,Brevibacteriaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+250,Brevibacterium,chitinolysis fermentation methanol_oxidation nitrate_reduction  plastic_degradation ureolysis,FAPROTAXv1.1
+251,Brevundimonas,"nirK, plant_pathogen","(Graf et al., 2014), FAPROTAXv1.1"
+252,Brocadia,anammox,FAPROTAXv1.1
+253,Brocadiaceae,anammox,FAPROTAXv1.1
+254,Brucella,"nirK  norB nosZ, human_pathogens_all","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+255,Brucellaceae,animal_parasites_or_symbionts intracellular_parasites nitrate_respiration,FAPROTAXv1.1
+256,Bryobacter,"non-N, aerobic_chemoheterotrophy","{Kulichevskaya, I. S., et al. (2010)}, FAPROTAXv1.1"
+257,Bryocella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+258,Burgholderia,nitrogen_fixation,FAPROTAXv1.1
+259,Burkholderia,"non-N, aerobic_chemoheterotrophy aerobic_nitrite_oxidation animal_parasites_or_symbionts aromatic_compound_degradation aromatic_hydrocarbon_degradation chitinolysis dark_sulfite_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation human_pathogens_all human_pathogens_pneumonia nitrate_reduction  nitrate_respiration nitrogen_fixation plant_pathogen plastic_degradation ureolysis","(Yabuuchi et al., 1992) (Graf et al., 2014), FAPROTAXv1.1"
+260,Burkholderiaceae,aerobic_chemoheterotrophy fermentation nitrate_reduction  nitrate_respiration predatory_or_exoparasitic,FAPROTAXv1.1
+261,Burkholderiales,"nirS norB ,  C_fix  N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, human_pathogens_all human_pathogens_pneumonia","(Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+262,Butyribacterium,reductive_acetogenesis,FAPROTAXv1.1
+263,Butyrivibrio,"Cellulolytic, cellulolysis human_gut xylanolysis",", FAPROTAXv1.1"
+264,Butyvivibrio,fermentation,FAPROTAXv1.1
+265,Byssophaga,cellulolysis,FAPROTAXv1.1
+266,Byssovorax,cellulolysis,FAPROTAXv1.1
+267,C39,non-N,
+268,Caldalkalibacillus,nirK,"(Graf et al., 2014)"
+269,Caldanaerobacter,"Cellulolytic, dissimilatory sulfite reduction",", FAPROTAXv1.1"
+270,Caldiarchaeum,aerobic_ammonia_oxidation,FAPROTAXv1.1
+271,Caldibacillus,cellulolysis,FAPROTAXv1.1
+272,Caldicellulosiruptor,"Cellulolytic, cellulolysis fermentation xylanolysis",", FAPROTAXv1.1"
+273,Caldicoprobacter,fermentation xylanolysis,FAPROTAXv1.1
+274,Caldilinea,nosZ,"(Graf et al., 2014)"
+275,Caldimicrobium,dark_hydrogen_oxidation sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+276,Caldimonas,manganese_oxidation,FAPROTAXv1.1
+277,Calditerrivibrio,DNRA,FAPROTAXv1.1
+278,Caldithrix,"H2_ox  H2_prod   aerobic, dark_hydrogen_oxidation DNRA fermentation","(Antharaman et al., 2016), FAPROTAXv1.1"
+279,Caldivirga,"nirK  norB, sulfate_respiration sulfur_respiration thiosulfate_respiration","(Jones et al., 2008), FAPROTAXv1.1"
+280,Caldocellum,cellulolysis xylanolysis,FAPROTAXv1.1
+281,Caloramator,fermentation reductive_acetogenesis xylanolysis,FAPROTAXv1.1
+282,Calymmatobacterium,human_pathogens_all,FAPROTAXv1.1
+283,Caminibacter,dark_hydrogen_oxidation DNRA knallgas_bacteria sulfur_respiration,FAPROTAXv1.1
+284,Campylobacter,"norB nosZ, dissimilatory sulfite reduction fumarate_respiration human_gut human_pathogens_all human_pathogens_diarrhea human_pathogens_gastroenteritis human_pathogens_meningitis human_pathogens_septicemia nitrate_reduction  nitrate_respiration nitrite_ammonification sulfur_respiration thiosulfate_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+285,Campylobacteraceae,animal_parasites_or_symbionts sulfur_respiration,FAPROTAXv1.1
+286,candidate division CPR2,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+287,candidate division CPR3,aerobic,"(Antharaman et al., 2016)"
+288,candidate division Kaza,aerobic,"(Antharaman et al., 2016)"
+289,candidate division KSB1,H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+290,candidate division NC1,N_cycle   Fe_Cycle    C1_ox  aerobic,"(Antharaman et al., 2016)"
+291,candidate division TM6,aerobic,"(Antharaman et al., 2016)"
+292,candidate division WOR-1,S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+293,candidate division WOR-3,H2_ox    aerobic,"(Antharaman et al., 2016)"
+294,candidate division WS6,S_cycle      aerobic,"(Antharaman et al., 2016)"
+295,candidate division WWE3,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+296,candidate division Zixibacteria,N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+297,Candidatus Abawacabacteria,aerobic,"(Antharaman et al., 2016)"
+298,Candidatus Accumulibacter,Polyphosphate-accumulating,"{Mao, Y., et al. (2015)} (Graf et al., 2014)"
+299,Candidatus Adlerbacteria,aerobic,"(Antharaman et al., 2016)"
+300,Candidatus Amesbacteria,S_cycle      aerobic,"(Antharaman et al., 2016)"
+301,Candidatus Aminicenantes,C_fix   N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+302,Candidatus Andersenbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+303,Candidatus Atribacteria,H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+304,Candidatus Azambacteria,N_cycle  S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+305,Candidatus babela,non-N,"(Pagnier et al., 2015)"
+306,Candidatus Bathyarchaeota,C_fix    S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+307,Candidatus Beckwithbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+308,Candidatus Berkelbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+309,Candidatus Blackburnbacteria,aerobic,"(Antharaman et al., 2016)"
+310,Candidatus Brennerbacteria,aerobic,"(Antharaman et al., 2016)"
+311,Candidatus Brocadia,Ammox,
+312,Candidatus Buchananbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+313,Candidatus Campbellbacteria,S_cycle      aerobic,"(Antharaman et al., 2016)"
+314,Candidatus Chisholmbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+315,Candidatus Coatesbacteria,H2_ox    aerobic,"(Antharaman et al., 2016)"
+316,Candidatus Collierbacteria,C_fix  N_fix   S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+317,Candidatus Colwellbacteria,aerobic,"(Antharaman et al., 2016)"
+318,Candidatus Curtissbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+319,Candidatus Dadabacteria,N_cycle  S_cycle  Fe_Cycle   H2_prod   aerobic,"(Antharaman et al., 2016)"
+320,Candidatus Daviesbacteria,N_fix        aerobic,"(Antharaman et al., 2016)"
+321,Candidatus Delongbacteria,H2_prod   aerobic,"(Antharaman et al., 2016)"
+322,Candidatus Diapherotrites_phylum,varied_archaea,0
+323,Candidatus Doudnabacteria,N_cycle       aerobic,"(Antharaman et al., 2016)"
+324,Candidatus Edwardsbacteria,H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+325,Candidatus Eisenbacteria,N_cycle  S_cycle  Fe_Cycle   H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+326,Candidatus Falkowbacteria,C_fix    S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+327,Candidatus Firestonebacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+328,Candidatus Fischerbacteria,S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+329,Candidatus Fraserbacteria,C_fix   N_cycle  S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+330,Candidatus Giovannonibacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+331,Candidatus Glassbacteria,N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+332,Candidatus Gottesmanbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+333,Candidatus Handelsmanbacteria,N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+334,Candidatus Harrisonbacteria,aerobic,"(Antharaman et al., 2016)"
+335,Candidatus Jacksonbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+336,Candidatus Jettenia,Ammox,
+337,Candidatus Jorgensenbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+338,Candidatus Kaiserbacteria,N_fix  N_cycle  S_cycle    H2_prod   aerobic,"(Antharaman et al., 2016)"
+339,Candidatus Kerfeldbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+340,Candidatus Komeilibacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+341,Candidatus koribacter,Denitrification+,
+342,Candidatus Kuenenbacteria,C_fix       H2_prod   aerobic,"(Antharaman et al., 2016)"
+343,Candidatus Kuenenia,Ammox,
+344,Candidatus Lambdaproteobacteria,N_cycle  S_cycle   H2_ox    aerobic,"(Antharaman et al., 2016)"
+345,Candidatus Levybacteria,C_fix    S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+346,Candidatus Lindowbacteria,N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+347,Candidatus Liptonbacteria,N_cycle       aerobic,"(Antharaman et al., 2016)"
+348,Candidatus Lloydbacteria,N_cycle  S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+349,Candidatus Magasanikbacteria,N_fix  N_cycle  S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+350,Candidatus Magasanikbacteria bacterium RIFCSPHIGHO2_02_FULL_50_9b,CPR-OD1,
+351,Candidatus Margulisbacteria,S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+352,Candidatus Melainabacteria,N_cycle  S_cycle    H2_prod   aerobic,"(Antharaman et al., 2016)"
+353,Candidatus metachlamydia,non-N,
+354,Candidatus Methylomirabilis,nirS norB,"(Graf et al., 2014)"
+355,Candidatus Micrarchaeota,C_fix    S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+356,Candidatus Microthrix,nirK,"(Graf et al., 2014)"
+357,Candidatus Moranbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+358,Candidatus Muproteobacteria,C_fix   N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+359,Candidatus Nealsonbacteria,H2_prod   aerobic,"(Antharaman et al., 2016)"
+360,Candidatus nitrosoarchaeum,Ammonia oxidation,"(Lehtovirta-Morley et al., 2011) (Graf et al., 2014) "
+361,Candidatus nitrosocaldus,Ammonia oxidation,"(De la Torre et al., 2008)"
+362,Candidatus Nitrosopumilus,nirK,"(Graf et al., 2014)"
+363,Candidatus Nitrososphaera,Ammonia oxidation,"(Graf et al., 2014)"
+364,Candidatus nitrosotalea,Ammonia oxidation,"(Lehtovirta-Morley et al., 2011)"
+365,Candidatus Nitrosotenuis,Ammonia oxidation,"{Li, Y., et al. (2016)}"
+366,Candidatus Nitrospira,nirK,"(Graf et al., 2014)"
+367,Candidatus nitrotoga,Nitrite oxidation,"(Alawi et al., 2007)"
+368,Candidatus Niyogibacteria,N_cycle  S_cycle      aerobic,"(Antharaman et al., 2016)"
+369,Candidatus Nomurabacteria,N_fix  N_cycle  S_cycle    H2_prod   aerobic,"(Antharaman et al., 2016)"
+370,Candidatus Omnitrophus,Magnetatactic+,"{Kolinko, S., et al. (2016)}"
+371,Candidatus Pacearchaeota,C_fix  N_fix   S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+372,Candidatus Pacearchaeota_phylum,varied_archaea,0
+373,Candidatus Pacebacteria,aerobic,"(Antharaman et al., 2016)"
+374,Candidatus Peregrinibacteria,C_fix  N_fix   S_cycle    H2_prod   aerobic,"(Antharaman et al., 2016)"
+375,Candidatus Peribacteria,N_cycle      C1_ox  aerobic,"(Antharaman et al., 2016)"
+376,Candidatus Phytoplasma,non-N,
+377,Candidatus planktophila,non-N,"(Jezbera et al., 2009)"
+378,Candidatus Portnoybacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+379,Candidatus protistobacter,non-N,"(Vannini et al., 2013)"
+380,Candidatus protochlamydia,non-N,"(Collingro et al., 2005)"
+381,Candidatus rhabdochlamydia,non-N,"(Kostanjsek et al., 2004)"
+382,Candidatus Riflebacteria,C_fix    S_cycle    H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+383,Candidatus Roizmanbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+384,Candidatus Rokubacteria,N_fix  N_cycle  S_cycle  Fe_Cycle   H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+385,Candidatus Ryanbacteria,N_cycle  S_cycle    H2_prod   aerobic,"(Antharaman et al., 2016)"
+386,Candidatus Saccharibacteria,N_cycle       aerobic,"(Antharaman et al., 2016)"
+387,Candidatus Saccharimonas,Denitrification,"(Kindaichi et al., 2016)"
+388,Candidatus Schekmanbacteria,N_cycle  S_cycle  Fe_Cycle   H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+389,Candidatus Shapirobacteria,aerobic,"(Antharaman et al., 2016)"
+390,Candidatus solibacter,Denitrification+,"(Kindaichi et al., 2016)"
+391,Candidatus Spechtbacteria,N_cycle       aerobic,"(Antharaman et al., 2016)"
+392,Candidatus Staskawiczbacteria,H2_prod   aerobic,"(Antharaman et al., 2016)"
+393,Candidatus Sungbacteria,N_fix  N_cycle  S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+394,Candidatus Tagabacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+395,Candidatus Taylorbacteria,H2_prod   aerobic,"(Antharaman et al., 2016)"
+396,Candidatus Tectomicrobia,N_cycle  S_cycle  Fe_Cycle    C1_ox  aerobic,"(Antharaman et al., 2016)"
+397,Candidatus Terrybacteria,N_cycle       aerobic,"(Antharaman et al., 2016)"
+398,Candidatus Uhrbacteria,N_cycle  S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+399,Candidatus Veblenbacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+400,Candidatus vidania,non-N,"(Gonella et al., 2011)"
+401,Candidatus Vogelbacteria,S_cycle      aerobic,"(Antharaman et al., 2016)"
+402,Candidatus Wallbacteria,N_cycle     H2_prod   aerobic,"(Antharaman et al., 2016)"
+403,Candidatus Wildermuthbacteria,H2_prod   aerobic,"(Antharaman et al., 2016)"
+404,Candidatus Woesearchaeota,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+405,Candidatus Woesebacteria,S_cycle      aerobic,"(Antharaman et al., 2016)"
+406,Candidatus Wolfebacteria,N_cycle  S_cycle      aerobic,"(Antharaman et al., 2016)"
+407,Candidatus Woykebacteria,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+408,Candidatus Yanofskybacteria,N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+409,Candidatus Yonathbacteria,N_cycle       aerobic,"(Antharaman et al., 2016)"
+410,Candidatus Zambryskibacteria,N_cycle  S_cycle      aerobic,"(Antharaman et al., 2016)"
+411,Candidatus Brocadia,Ammox,"(Gonella et al., 2011)"
+412,Candidatus Koribacter,Denitrification+,
+413,Candidatus Methanoregula,Methanogen,"(Br_uer et al., 2011)"
+414,Candidatus Nitrosocosmicus,Ammonia oxidation,
+415,Candidatus Nitrososphaera,Ammonia oxidation,
+416,Candidatus Protochlamydia,non-N,"(Br_uer et al., 2011)"
+417,Candidatus Rhabdochlamydia,non-N,"(Br_uer et al., 2011)"
+418,Candidatus Solibacter,Denitrification+,
+419,Candidatus Xiphinematobacter,non-N,"(Vandekerckhove et al., 2002)"
+420,Capnocytophaga,nirK  norB  nosZ,"(Graf et al., 2014)"
+421,Carboxydothermus,dark_hydrogen_oxidation dark_sulfur_oxidation DNRA fumarate_respiration iron_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+422,Cardiobacteriaceae,fermentation,FAPROTAXv1.1
+423,Cardiobacterium,nirK  norB  nosZ,"(Graf et al., 2014)"
+424,Carnobacteriaceae,fermentation,FAPROTAXv1.1
+425,Carnobacterium,fermentation,FAPROTAXv1.1
+426,Catellatospora,aerobic_chemoheterotrophy,FAPROTAXv1.1
+427,Catellicoccus,mammal_gut,FAPROTAXv1.1
+428,Catenococcus,dark_thiosulfate_oxidation,FAPROTAXv1.1
+429,Catenulispora,nitrate_reduction,FAPROTAXv1.1
+430,Catenuloplanes,ureolysis,FAPROTAXv1.1
+431,Caulobacter,"non-N, aerobic_chemoheterotrophy","(MacRae and Smit, 1991) (Graf et al., 2014), FAPROTAXv1.1"
+432,Caulobacterales,N_cycle  S_cycle     C1_ox  aerobic,"(Antharaman et al., 2016)"
+433,Cecembia,nirK  norB  nosZ,"(Graf et al., 2014)"
+434,Celeribacter,"nirK  norB  nosZ, aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation fermentation nitrate_respiration ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+435,Cellulomonadaceae,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+436,Cellulomonas,"Cellulolytic+, cellulolysis chitinolysis fermentation iron_respiration nitrate_reduction  ureolysis xylanolysis","(Bagra et al., 1985) (Graf et al., 2014), FAPROTAXv1.1"
+437,Cellulophaga,"norB  nosZ, nitrate_reduction  ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+438,Cellulosimicrobium,cellulolysis fermentation nitrate_reduction  ureolysis,FAPROTAXv1.1
+439,Cellvibrio,"nirK, aerobic_chemoheterotrophy cellulolysis nitrogen_fixation","(Graf et al., 2014), FAPROTAXv1.1"
+440,Cenarchaeum,"Ammonia oxidation, aerobic_ammonia_oxidation animal_parasites_or_symbionts","(Hallam et al., 2006), FAPROTAXv1.1"
+441,Cenibacterium,arsenite_oxidation_detoxification,FAPROTAXv1.1
+442,Centipeda,nitrate_reduction,FAPROTAXv1.1
+443,Cetia,dark_hydrogen_oxidation nitrate_respiration sulfur_respiration,FAPROTAXv1.1
+444,Cetobacterium,fermentation nitrate_reduction,FAPROTAXv1.1
+445,Chaetomium,nirK  norB,"(Graf et al., 2014)"
+446,Chelatococcus,nirK  norB  nosZ,"(Graf et al., 2014)"
+447,Chitinibacter,chitinolysis,FAPROTAXv1.1
+448,Chitinilyticum,chitinolysis,FAPROTAXv1.1
+449,Chitinivibrio,chitinolysis fermentation,FAPROTAXv1.1
+450,Chitinolyticbacter,chitinolysis,FAPROTAXv1.1
+451,Chitinophaga,"non-N, cellulolysis chitinolysis nitrate_reduction  ureolysis","(SANGKHOBOL and Skerman, 1981), FAPROTAXv1.1"
+452,Chitinophagaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+453,Chlamydia,"non-N, human_pathogens_all","(Collingro et al., 2005), FAPROTAXv1.1"
+454,Chlamydiae,"S_cycle   H2_ox  H2_prod   aerobic, intracellular_parasites","(Antharaman et al., 2016), FAPROTAXv1.1"
+455,Chloracidobacterium,photoheterotrophy,FAPROTAXv1.1
+456,Chlorobaculum,anoxygenic_photoautotrophy_S_oxidizing dark_sulfide_oxidation,FAPROTAXv1.1
+457,Chlorobi,anoxygenic_photoautotrophy anoxygenic_photoautotrophy_S_oxidizing,FAPROTAXv1.1
+458,Chlorobium,anoxygenic_photoautotrophy_Fe_oxidizing anoxygenic_photoautotrophy_S_oxidizing dark_iron_oxidation nitrogen_fixation,FAPROTAXv1.1
+459,Chloroflexi,C_fix  N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+460,Chloroflexus,"nirK, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy_S_oxidizing","(Graf et al., 2014), FAPROTAXv1.1"
+461,Chloroherpeton,anoxygenic_photoautotrophy_S_oxidizing,FAPROTAXv1.1
+462,chloroplast,chloroplasts,FAPROTAXv1.1
+463,Chlorosi,anoxygenic_photoautotrophy_S_oxidizing,FAPROTAXv1.1
+464,Chondromyces,aerobic_chemoheterotrophy,FAPROTAXv1.1
+465,Christensenella,fermentation,FAPROTAXv1.1
+466,Chromatiaceae,aerobic_ammonia_oxidation anoxygenic_photoautotrophy_S_oxidizing,FAPROTAXv1.1
+467,Chromatiales,"S_cycle     C1_ox  aerobic, anoxygenic_photoautotrophy_S_oxidizing","(Antharaman et al., 2016), FAPROTAXv1.1"
+468,Chromatium,ureolysis,FAPROTAXv1.1
+469,Chromobacterium,"nirK  norB, chitinolysis invertebrate_parasites","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+470,Chromohalobacter,nitrate_reduction  ureolysis,FAPROTAXv1.1
+471,Chryseobacterium,"nirK  norB, fermentation human_gut nitrate_reduction  ureolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+472,Chryseolinea,aerobic_chemoheterotrophy xylanolysis,FAPROTAXv1.1
+473,Chrysiogenes,arsenate_respiration DNRA nitrite_respiration,FAPROTAXv1.1
+474,Chrysiogenetes,nitrate_reduction  nitrate_respiration,FAPROTAXv1.1
+475,Chthoniobacter,"non-N, aerobic_chemoheterotrophy","(Sangwan et al., 2004) (Graf et al., 2014), FAPROTAXv1.1"
+476,Chthoniobacteraceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+477,Chthoniobacterales,animal_parasites_or_symbionts,FAPROTAXv1.1
+478,Citreicella,"nosZ, dark_thiosulfate_oxidation fermentation","(Graf et al., 2014), FAPROTAXv1.1"
+479,Citreimonas,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+480,Citricoccus,ureolysis,FAPROTAXv1.1
+481,Citrobacter,animal_parasites_or_symbionts arsenate_respiration fermentation human_pathogens_all nitrate_respiration,FAPROTAXv1.1
+482,Citromicrobium,aerobic_anoxygenic_phototrophy fermentation,FAPROTAXv1.1
+483,Clavibacter,plant_pathogen,FAPROTAXv1.1
+484,Cloacibacterium,non-N,"(Allen et al., 2006)"
+485,Clonothrix,methanotrophy,FAPROTAXv1.1
+486,Closterium,plastic_degradation,FAPROTAXv1.1
+487,Clostridiaceae,fermentation nitrogen_fixation reductive_acetogenesis sulfur_respiration,FAPROTAXv1.1
+488,Clostridiales,"N_fix   S_cycle   H2_ox  H2_prod  C1_ox  aerobic, fermentation nitrogen_fixation reductive_acetogenesis sulfur_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+489,Clostridium,"Cellulolytic, aromatic_compound_degradation arsenate_respiration cellulolysis chitinolysis dark_hydrogen_oxidation dissimilatory sulfite reduction DNRA fermentation human_gut human_pathogens_all human_pathogens_diarrhea invertebrate_parasites  iron_respiration nitrate_reduction nitrate_respiration nitrite_ammonification reductive_acetogenesis sulfate_respiration ureolysis xylanolysis",", FAPROTAXv1.1"
+490,Clostridiumpeptidivorans,fermentation,FAPROTAXv1.1
+491,Coccidioides,nirK,"(Graf et al., 2014)"
+492,Cohaesibacter,aerobic_chemoheterotrophy cellulolysis,FAPROTAXv1.1
+493,Cohnella,aerobic_chemoheterotrophy cellulolysis nitrate_reduction  nitrogen_fixation xylanolysis,FAPROTAXv1.1
+494,Collinsella,human_gut,FAPROTAXv1.1
+495,Colwellia,"nirS norB nosZ, ureolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+496,Comamonadaceae,aerobic_chemoheterotrophy dark_hydrogen_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation fermentation manganese_oxidation nitrate_denitrification nitrate_reduction  nitrate_respiration photoheterotrophy,FAPROTAXv1.1
+497,Comamonas,"nirS, aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation ligninolysis nitrate_denitrification plastic_degradation","(Jones et al., 2008), FAPROTAXv1.1"
+498,Compostimonas,"Denitrification, aerobic_chemoheterotrophy nitrate_reduction","(Kim et al., 2012), FAPROTAXv1.1"
+499,Conexibacter,"Denitrification, aerobic_chemoheterotrophy nitrate_reduction","{Monciardini, P., et al. (2003)}, FAPROTAXv1.1"
+500,Congregibacter,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+501,Coprococcus,"non-N, human_gut","(HOLDEMAN and Moore, 1974), FAPROTAXv1.1"
+502,Coprothermobacter,fermentation,FAPROTAXv1.1
+503,Cor,fermentation,FAPROTAXv1.1
+504,Coraliomargarita,ureolysis,FAPROTAXv1.1
+505,Coriobacteriaceae,aerobic_chemoheterotrophy dark_hydrogen_oxidation fermentation,FAPROTAXv1.1
+506,Corynebacterium,"non-N, aerobic_chemoheterotrophy animal_parasites_or_symbionts fermentation human_gut human_pathogens_all human_pathogens_nosocomia human_pathogens_septicemia nitrate_reduction  plastic_degradation ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+507,Costertonia,aerobic_chemoheterotrophy nitrate_denitrification ureolysis,FAPROTAXv1.1
+508,Couchioplanes,nitrate_reduction,FAPROTAXv1.1
+509,Coxiella,"non-N, animal_parasites_or_symbionts","(Antharaman et al., 2016), FAPROTAXv1.1"
+510,Coxiellaceae,human_pathogens_all intracellular_parasites invertebrate_parasites,FAPROTAXv1.1
+511,Craurococcus,aerobic_anoxygenic_phototrophy nitrate_reduction,FAPROTAXv1.1
+512,Crenarchaeota,dark_hydrogen_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation fermentation nitrate_respiration sulfur_respiration thiosulfate_respiration xylanolysis,FAPROTAXv1.1
+513,Crenothrix,"Methanotroph, methanotrophy","(Stoecker et al., 2006), FAPROTAXv1.1"
+514,Croceibacter,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+515,Croceitalea,aerobic_chemoheterotrophy,FAPROTAXv1.1
+516,Crocinitomix,non-N,"(Bowman et al., 2003)"
+517,Crocosphaera,nitrogen_fixation,FAPROTAXv1.1
+518,Cronobacter,human_pathogens_all human_pathogens_meningitis,FAPROTAXv1.1
+519,Crossiella,ureolysis,FAPROTAXv1.1
+520,Cryobacterium,nitrate_reduction,FAPROTAXv1.1
+521,Cryomorpha,ureolysis,FAPROTAXv1.1
+522,Cryomorphaceae,aerobic_chemoheterotrophy fermentation nitrate_reduction,FAPROTAXv1.1
+523,Cryptosorangium,ureolysis,FAPROTAXv1.1
+524,Cryptosporangiaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+525,Cryptosporangium,nitrate_reduction  ureolysis,FAPROTAXv1.1
+526,Cupriavidus,non-N,"(Vandamme and Coenye, 2004) (Jones et al., 2008) , (Graf et al., 2014)"
+527,Curtobacterium,"non-N, plant_pathogen","(Funke et al., 2005), FAPROTAXv1.1"
+528,Curvibacter,C_fix   N_cycle  S_cycle    H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+529,cyanobacteria,,FAPROTAXv1.1
+530,Cyanobacteria,nitrogen_fixation,FAPROTAXv1.1
+531,Cyclobacteriaceae,aerobic_chemoheterotrophy fermentation nitrate_reduction,FAPROTAXv1.1
+532,Cyclobacterium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+533,Cycloclasticus,aromatic_hydrocarbon_degradation oil_bioremediation,FAPROTAXv1.1
+534,Cystobacteraceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+535,Cytophaga,"non-N, cellulolysis chitinolysis fermentation xylanolysis",", FAPROTAXv1.1"
+536,Cytophagaceae,aerobic_chemoheterotrophy cellulolysis fermentation nitrate_reduction  ureolysis,FAPROTAXv1.1
+537,Cytophagales,aerobic_chemoheterotrophy cellulolysis,FAPROTAXv1.1
+538,Dactylosporangium,nitrate_reduction,FAPROTAXv1.1
+539,Dechloromonas,"Denitrification, aerobic_chemoheterotrophy chlorate_reducers dark_iron_oxidation dark_sulfide_oxidation fumarate_respiration nitrate_denitrification nitrate_respiration nitrite_respiration sulfate_respiration","(Coates et al., 2001) (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+540,Dechlorosoma,"nirS norB  nosZ, dark_iron_oxidation nitrate_denitrification","(Graf et al., 2014), FAPROTAXv1.1"
+541,Deferribacter,arsenate_respiration dark_hydrogen_oxidation iron_respiration manganese_respiration nitrate_respiration sulfur_respiration,FAPROTAXv1.1
+542,Deferribacteraceae,fermentation iron_respiration manganese_respiration nitrate_respiration,FAPROTAXv1.1
+543,Deferribacteres,arsenate_respiration fermentation,FAPROTAXv1.1
+544,Deferrisoma,iron_respiration sulfur_respiration,FAPROTAXv1.1
+545,Defluviitoga,sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+546,Dehalobacter,dark_hydrogen_oxidation,FAPROTAXv1.1
+547,Dehalococcoides,aromatic_compound_degradation dark_hydrogen_oxidation,FAPROTAXv1.1
+548,Dehalogenimonas,dark_hydrogen_oxidation,FAPROTAXv1.1
+549,Deinococcus,nitrate_reduction,FAPROTAXv1.1
+550,Delftia,"non-N, chitinolysis plastic_degradation","{Wen, A., et al. (1999)}, FAPROTAXv1.1"
+551,Deltaproteobacteria,"C_fix  N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, arsenate_respiration dark_sulfide_oxidation predatory_or_exoparasitic sulfate_respiration sulfur_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+552,Deltaproteobacterium,aromatic_hydrocarbon_degradation sulfate_respiration,FAPROTAXv1.1
+553,Demequina,"non-N, aerobic_chemoheterotrophy fermentation nitrate_reduction","(Yi et al., 2007), FAPROTAXv1.1"
+554,Demequinaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+555,Denitratisoma,"non-N, aerobic_chemoheterotrophy nitrate_denitrification",", FAPROTAXv1.1"
+556,Denitrification,Denitrification,
+557,Denitrobacterium,"Denitrification, DNRA",", FAPROTAXv1.1"
+558,Denitrovibrio,"nosZ, arsenate_respiration DNRA","(Graf et al., 2014), FAPROTAXv1.1"
+559,Dermabacter,human_pathogens_all,FAPROTAXv1.1
+560,Dermabacteraceae,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+561,Dermacoccaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+562,Dermacoccus,cellulolysis ureolysis,FAPROTAXv1.1
+563,Dermatophilaceae,animal_parasites_or_symbionts,FAPROTAXv1.1
+564,Dermatophilus,nitrate_reduction  ureolysis,FAPROTAXv1.1
+565,Derxia,nitrogen_fixation,FAPROTAXv1.1
+566,Desertibacter,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+567,Desulfacinum,dissimilatory sulfite reduction sulfate_respiration,FAPROTAXv1.1
+568,Desulfarculaceae,sulfate_respiration,FAPROTAXv1.1
+569,Desulfarculales,sulfate_respiration,FAPROTAXv1.1
+570,Desulfarculus,dissimilatory sulfite reduction,FAPROTAXv1.1
+571,Desulfatitalea,fumarate_respiration sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+572,Desulfitispora,dark_hydrogen_oxidation fermentation fumarate_respiration thiosulfate_respiration,FAPROTAXv1.1
+573,Desulfitobacterium,"norB nosZ, aromatic_compound_degradation aromatic_hydrocarbon_degradation arsenate_respiration dark_hydrogen_oxidation dissimilatory sulfite reduction fermentation fumarate_respiration iron_respiration manganese_oxidation manganese_respiration nitrate_respiration nitrogen_fixation sulfur_respiration thiosulfate_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+574,Desulfobacca,"N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic, dissimilatory sulfite reduction","(Antharaman et al., 2016), FAPROTAXv1.1"
+575,Desulfobacter,sulfate_respiration,FAPROTAXv1.1
+576,Desulfobacteraceae,dissimilatory sulfite reduction fermentation,FAPROTAXv1.1
+577,Desulfobacterales,"C_fix   N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, sulfate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+578,Desulfobacterium,aromatic_hydrocarbon_degradation dissimilatory sulfite reduction nitrate_respiration,FAPROTAXv1.1
+579,Desulfobacula,"C_fix    S_cycle   H2_ox  H2_prod  C1_ox  aerobic, aromatic_hydrocarbon_degradation sulfate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+580,Desulfobaculum,dissimilatory sulfite reduction fermentation,FAPROTAXv1.1
+581,Desulfobulbaceae,dark_hydrogen_oxidation dissimilatory sulfite reduction fermentation sulfate_respiration,FAPROTAXv1.1
+582,Desulfobulbus,"non-N, dissimilatory sulfite reduction DNRA fermentation iron_respiration sulfate_respiration thiosulfate_respiration",", FAPROTAXv1.1"
+583,Desulfocapsa,dissimilatory sulfite reduction fermentation,FAPROTAXv1.1
+584,Desulfococcus,aromatic_compound_degradation dissimilatory sulfite reduction nitrate_denitrification sulfate_respiration,FAPROTAXv1.1
+585,Desulfoconvexum,aromatic_compound_degradation dark_hydrogen_oxidation fermentation sulfate_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+586,Desulfocurvus,dissimilatory sulfite reduction fermentation thiosulfate_respiration,FAPROTAXv1.1
+587,Desulfofrigus,dissimilatory sulfite reduction iron_respiration,FAPROTAXv1.1
+588,Desulfofustis,dissimilatory sulfite reduction,FAPROTAXv1.1
+589,Desulfohalobiaceae,sulfate_respiration,FAPROTAXv1.1
+590,Desulfohalobium,fermentation,FAPROTAXv1.1
+591,Desulfohalophilus,sulfate_respiration,FAPROTAXv1.1
+592,Desulfomaculum,arsenate_respiration nitrate_respiration,FAPROTAXv1.1
+593,Desulfomicrobiaceae,fermentation sulfate_respiration,FAPROTAXv1.1
+594,Desulfomicrobium,arsenate_respiration dissimilatory sulfite reduction sulfate_respiration sulfur_respiration,FAPROTAXv1.1
+595,Desulfomonile,"norB  nosZ, nitrate_reduction  nitrogen_fixation sulfate_respiration thiosulfate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+596,Desulfonatronaceae,dissimilatory sulfite reduction thiosulfate_respiration,FAPROTAXv1.1
+597,Desulfonatronovibrio,dark_hydrogen_oxidation dissimilatory sulfite reduction fermentation sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+598,Desulfonatronum,dark_hydrogen_oxidation dissimilatory sulfite reduction fermentation iron_respiration sulfate_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+599,Desulfonatronumaceae,sulfate_respiration,FAPROTAXv1.1
+600,Desulfonauticus,dark_hydrogen_oxidation sulfate_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+601,Desulfopila,dark_hydrogen_oxidation sulfate_respiration,FAPROTAXv1.1
+602,Desulforhabdus,dissimilatory sulfite reduction,FAPROTAXv1.1
+603,Desulforhopalus,dissimilatory sulfite reduction DNRA fermentation nitrate_respiration,FAPROTAXv1.1
+604,Desulfosalsimonas,dark_hydrogen_oxidation dissimilatory sulfite reduction sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+605,Desulfosarcina,aromatic_compound_degradation dissimilatory sulfite reduction nitrate_denitrification,FAPROTAXv1.1
+606,Desulfosoma,dark_hydrogen_oxidation fermentation sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+607,Desulfospira,dissimilatory sulfite reduction,FAPROTAXv1.1
+608,Desulfosporomusa,sulfate_respiration,FAPROTAXv1.1
+609,Desulfosporosinus,"Sulfur reduction, aromatic_compound_degradation arsenate_respiration dark_hydrogen_oxidation dissimilatory sulfite reduction fermentation fumarate_respiration iron_respiration methanol_oxidation nitrate_respiration sulfate_respiration sulfur_respiration thiosulfate_respiration","(Stackebrandt et al., 1997) (Graf et al., 2014), FAPROTAXv1.1"
+610,Desulfotalea,dissimilatory sulfite reduction iron_respiration,FAPROTAXv1.1
+611,Desulfotignum,dissimilatory sulfite reduction,FAPROTAXv1.1
+612,Desulfotomaculum,"nosZ, aromatic_compound_degradation arsenate_respiration dark_hydrogen_oxidation dissimilatory sulfite reduction fermentation fumarate_respiration iron_respiration manganese_respiration methanol_oxidation nitrate_respiration nitrite_respiration plastic_degradation sulfate_respiration sulfur_respiration thiosulfate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+613,Desulfovibrio,"Denitrification, arsenate_detoxification dark_hydrogen_oxidation dark_sulfite_oxidation dissimilatory sulfite reduction DNRA fermentation fumarate_respiration human_gut iron_respiration methanol_oxidation nitrate_respiration nitrite_ammonification plastic_degradation sulfate_respiration sulfur_respiration thiosulfate_respiration",", FAPROTAXv1.1"
+614,Desulfovibrionaceae,fermentation nitrate_reduction  nitrate_respiration sulfate_respiration,FAPROTAXv1.1
+615,Desulfovibrionales,"N_cycle  S_cycle   H2_ox  H2_prod   aerobic, sulfate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+616,Desulfovirga,dissimilatory sulfite reduction,FAPROTAXv1.1
+617,Desulfurella,dark_hydrogen_oxidation sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+618,Desulfuribacillus,arsenate_respiration dark_hydrogen_oxidation sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+619,Desulfurispira,arsenate_respiration sulfur_respiration,FAPROTAXv1.1
+620,Desulfurispirillum,arsenate_respiration DNRA fermentation fumarate_respiration nitrate_respiration sulfur_respiration,FAPROTAXv1.1
+621,Desulfurobacteriaceae,sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+622,Desulfurobacterium,dark_hydrogen_oxidation DNRA sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+623,Desulfurococcaceae,aerobic_chemoheterotrophy fermentation sulfur_respiration,FAPROTAXv1.1
+624,Desulfurococcales,sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+625,Desulfurococcus,fermentation sulfur_respiration,FAPROTAXv1.1
+626,Desulfurohaeterium,dissimilatory sulfite reduction,FAPROTAXv1.1
+627,Desulfuromonaceae,fermentation sulfur_respiration,FAPROTAXv1.1
+628,Desulfuromonadaceae,fermentation fumarate_respiration iron_respiration manganese_respiration nitrate_respiration sulfur_respiration,FAPROTAXv1.1
+629,Desulfuromonadales,N_fix  N_cycle   Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+630,Desulfuromonales,sulfur_respiration,FAPROTAXv1.1
+631,Desulfuromonas,fumarate_respiration iron_respiration manganese_respiration sulfur_respiration,FAPROTAXv1.1
+632,Desulfuromusa,iron_respiration nitrate_respiration,FAPROTAXv1.1
+633,Dethiosulfatarculus,dark_hydrogen_oxidation fermentation thiosulfate_respiration,FAPROTAXv1.1
+634,Dethiosulfovibrio,sulfate_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+635,Devosia,"Denitrification, ureolysis","(Nakagawa et al., 1996), FAPROTAXv1.1"
+636,Dialister,non-N,"(Moore and Moore, 1994)"
+637,Diaminobutyricimonas,aerobic_chemoheterotrophy,FAPROTAXv1.1
+638,Diaphorobacter,"nirK  norB, aerobic_chemoheterotrophy nitrate_reduction  nitrate_respiration","(Jones et al., 2008), FAPROTAXv1.1"
+639,Dichelobacter,animal_parasites_or_symbionts,FAPROTAXv1.1
+640,Dichotomicrobium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+641,Dickeya,plant_pathogen,FAPROTAXv1.1
+642,Dictyoglomaceae,fermentation,FAPROTAXv1.1
+643,Dictyoglomi,fermentation,FAPROTAXv1.1
+644,Dictyoglomus,ligninolysis xylanolysis,FAPROTAXv1.1
+645,Dietzia,"nirK, aliphatic_non_methane_hydrocarbon_degradation nitrate_reduction  ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+646,Dietziaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+647,Dinghuibacter,non-N,"{Lv, Y.-Y., et al. (2016)}"
+648,Dinoroseobacter,"nirS norB nosZ, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy nitrate_denitrification photoheterotrophy","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+649,Diplosphaera,nitrogen_fixation,FAPROTAXv1.1
+650,Dissulfurirhabdus,dark_hydrogen_oxidation,FAPROTAXv1.1
+651,Dokdonella,Denitrification,"(Yoon et al., 2006)"
+652,Dokdonia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+653,Domibacillus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+654,Dongia,Denitrification,"(Liu et al., 2010)"
+655,Doowaniella,chitinolysis,FAPROTAXv1.1
+656,Dorea,human_gut,FAPROTAXv1.1
+657,Duganella,non-N,"{Hiraishi, A., et al. (1997)}"
+658,Dyadobacter,"nosZ, fermentation","(Graf et al., 2014), FAPROTAXv1.1"
+659,Dyadobactera,nitrate_reduction,FAPROTAXv1.1
+660,Dyella,"Denitrification, aerobic_chemoheterotrophy dark_sulfite_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_reduction  ureolysis","(Xie and Yokota, 2005) (Graf et al., 2014), FAPROTAXv1.1"
+661,Ectothiorhodosinus,photoheterotrophy,FAPROTAXv1.1
+662,Ectothiorhodospira,aerobic_chemoheterotrophy anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing nitrate_reduction  photoheterotrophy,FAPROTAXv1.1
+663,Ectothiorhodospiraceae,anoxygenic_photoautotrophy_S_oxidizing dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration,FAPROTAXv1.1
+664,Edwardsiella,human_pathogens_all human_pathogens_gastroenteritis human_pathogens_septicemia,FAPROTAXv1.1
+665,Eggerthella,human_gut human_pathogens_all,FAPROTAXv1.1
+666,Eggerthia,fermentation,FAPROTAXv1.1
+667,Elioraea,aerobic_chemoheterotrophy dark_thiosulfate_oxidation nitrate_reduction  xylanolysis,FAPROTAXv1.1
+668,Elizabethkingia,ureolysis,FAPROTAXv1.1
+669,Ellin6067,Ammonia oxidation,
+670,Elusimicrobia,C_fix  N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+671,Empedobacter,human_pathogens_nosocomia,FAPROTAXv1.1
+672,endosymbiont,nirS norB  nosZ,"(Graf et al., 2014)"
+673,Enhydrobacter,human_gut nitrate_reduction,FAPROTAXv1.1
+674,Ensifer,"nirK  norB, aerobic_chemoheterotrophy nitrogen_fixation","(Jones et al., 2008), FAPROTAXv1.1"
+675,Enteroactinococcus,nitrate_reduction,FAPROTAXv1.1
+676,Enterobacter,animal_parasites_or_symbionts DNRA fermentation human_pathogens_all ligninolysis nitrogen_fixation plant_pathogen,FAPROTAXv1.1
+677,Enterobacteriaceae,aerobic_chemoheterotrophy animal_parasites_or_symbionts fermentation human_gut human_pathogens_all invertebrate_parasites  nitrate_reduction ureolysis,FAPROTAXv1.1
+678,Enterococcaceae,fermentation,FAPROTAXv1.1
+679,Enterococcus,"nirK  norB, fermentation human_gut human_pathogens_all human_pathogens_meningitis","(Jones et al., 2008), FAPROTAXv1.1"
+680,Entomoplasmataceae,animal_parasites_or_symbionts fermentation,FAPROTAXv1.1
+681,Eperythrozoon,animal_parasites_or_symbionts,FAPROTAXv1.1
+682,Erwinia,cellulolysis fermentation plant_pathogen,FAPROTAXv1.1
+683,Erysipelothrix,fish_parasites,FAPROTAXv1.1
+684,Erysipelotrichaceae,fermentation,FAPROTAXv1.1
+685,Erythrobacter,"N_cycle  S_cycle     C1_ox  aerobic, aerobic_anoxygenic_phototrophy manganese_oxidation photoheterotrophy","(Antharaman et al., 2016), FAPROTAXv1.1"
+686,Erythromicrobium,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+687,Erythromonas,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+688,Escherichia,aerobic_chemoheterotrophy fermentation fumarate_respiration human_gut human_pathogens_all human_pathogens_diarrhea human_pathogens_gastroenteritis nitrate_respiration nitrite_ammonification plant_pathogen,FAPROTAXv1.1
+689,Ethanoligenens,non-N,"(Xing et al., 2006)"
+690,Eubacteriaceae,dark_hydrogen_oxidation DNRA fermentation reductive_acetogenesis thiosulfate_respiration,FAPROTAXv1.1
+691,Eubacterium,"Cellulolytic, aromatic_compound_degradation cellulolysis dark_hydrogen_oxidation fermentation human_gut methanol_oxidation reductive_acetogenesis xylanolysis",", FAPROTAXv1.1"
+692,Euryarchaeota,"C_fix  N_fix  N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic, aerobic_chemoheterotrophy dark_hydrogen_oxidation methanogenesis methanogenesis_by_reduction_of_methyl_compounds_with_H2 nitrate_reduction  nitrate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+693,Euzebya,ureolysis,FAPROTAXv1.1
+694,Euzebyaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+695,Ewingella,fermentation plant_pathogen,FAPROTAXv1.1
+696,Exiguobacterium,aerobic_chemoheterotrophy arsenate_detoxification fermentation nitrate_reduction,FAPROTAXv1.1
+697,Facklamia,aerobic_chemoheterotrophy fermentation manganese_oxidation,FAPROTAXv1.1
+698,Faecalibacterium,"non-N, human_gut","(Duncan et al., 2002), FAPROTAXv1.1"
+699,family_Candidatus Diapherotrites archaeon_ADurb.Bin063-1,varied_archaea,
+700,family_Microscillaceae_OLB12,varied,"{Hahnke, R. L., et al. (2016)}"
+701,family_Nitrosomonadaceae_IS-44,Ammonia oxidation,
+702,Fangia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+703,Ferribacterium,"Denitrification, fumarate_respiration iron_respiration nitrate_respiration","(Cummings et al., 1999), FAPROTAXv1.1"
+704,Ferrimicrobium,dark_iron_oxidation,FAPROTAXv1.1
+705,Ferrimonas,aerobic_chemoheterotrophy arsenate_respiration fermentation iron_respiration manganese_respiration nitrate_denitrification nitrate_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+706,Ferrithrix,dark_iron_oxidation,FAPROTAXv1.1
+707,Ferritrophicum,"Fe2 oxidation, dark_iron_oxidation","{Weiss, J. V., et al. (2007)}, FAPROTAXv1.1"
+708,Ferroglobus,"norB  nosZ, dark_iron_oxidation sulfur_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+709,Ferroplasma,dark_iron_oxidation,FAPROTAXv1.1
+710,Ferrovibrio,aerobic_chemoheterotrophy dark_iron_oxidation nitrate_respiration,FAPROTAXv1.1
+711,Ferrovum,dark_iron_oxidation,FAPROTAXv1.1
+712,Ferruginibacter,"non-N, aerobic_chemoheterotrophy ureolysis","(Lim et al., 2009), FAPROTAXv1.1"
+713,Fervidicella,fermentation iron_respiration manganese_respiration,FAPROTAXv1.1
+714,Fervidobacterium,cellulolysis fermentation xylanolysis,FAPROTAXv1.1
+715,Fervidobaeterium,fermentation,FAPROTAXv1.1
+716,Fibrobacter,animal_parasites_or_symbionts cellulolysis fermentation xylanolysis,FAPROTAXv1.1
+717,Fibrobacteraceae,fermentation,FAPROTAXv1.1
+718,FIbrobacteraceae,cellulolysis,FAPROTAXv1.1
+719,Filibacter,nitrate_reduction  ureolysis,FAPROTAXv1.1
+720,Filifactor,fermentation,FAPROTAXv1.1
+721,Filomicrobium,ureolysis,FAPROTAXv1.1
+722,Fimbriimonas,non-N,"(Im et al., 2012)"
+723,Finegoldia,human_gut,FAPROTAXv1.1
+724,Firmicutes,"H2_prod   aerobic, dark_hydrogen_oxidation fermentation fumarate_respiration iron_respiration nitrate_reduction  thiosulfate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+725,Flammeovirga,fermentation,FAPROTAXv1.1
+726,Flammeovirgaceae,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+727,Flaviramulus,ureolysis,FAPROTAXv1.1
+728,Flavisolibacter,non-N,"(Yoon and Im, 2007)"
+729,Flavitalea,aerobic_chemoheterotrophy,FAPROTAXv1.1
+730,Flavivirga,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+731,Flavobacteria,N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+732,Flavobacteriaceae,"nirK   nosZ, aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation fermentation nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+733,Flavobacteriales,"nirK  norB nosZ, intracellular_parasites","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+734,Flavobacterium,"non-N, aerobic_chemoheterotrophy chitinolysis DNRA fermentation fumarate_respiration nitrate_denitrification nitrate_reduction  nitrate_respiration nitrite_respiration ureolysis xylanolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+735,Flectobacillus,ureolysis,FAPROTAXv1.1
+736,Flexibacter,"nirK  norB  nosZ, chitinolysis nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+737,Fluviicola,"aerobic, aerobic_chemoheterotrophy","(Antharaman et al., 2016), FAPROTAXv1.1"
+738,Fodinibacter,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+739,Fodinicola,ureolysis,FAPROTAXv1.1
+740,Formivibrio,fermentation,FAPROTAXv1.1
+741,Formosa,nitrate_reduction,FAPROTAXv1.1
+742,Francisella,animal_parasites_or_symbionts human_pathogens_all,FAPROTAXv1.1
+743,Francisellaceae,animal_parasites_or_symbionts,FAPROTAXv1.1
+744,Friedmanniella,ureolysis,FAPROTAXv1.1
+745,Frigoribacterium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+746,Fuchsiella,reductive_acetogenesis,FAPROTAXv1.1
+747,Fulvomarina,manganese_oxidation,FAPROTAXv1.1
+748,Fusarium,nirK  norB,"(Graf et al., 2014)"
+749,Fusibacter,fermentation,FAPROTAXv1.1
+750,Fusobacteriaceae,fermentation,FAPROTAXv1.1
+751,Fusobacterium,fermentation nitrate_reduction,FAPROTAXv1.1
+752,g__Wchb1-05_f__Anaerolineacaea,varied,
+753,Gaiella,"Denitrification, aerobic_chemoheterotrophy nitrate_reduction","{Albuquerque, L., et al. (2011)}, FAPROTAXv1.1"
+754,Galbibacter,nirK  norB,"(Graf et al., 2014)"
+755,Gallibacterium,nirK  norB,"(Graf et al., 2014)"
+756,Gallionella,"Nitric oxide reduction, dark_iron_oxidation","(Anderson and Pedersen, 2003; Emerson et al., 2013), FAPROTAXv1.1"
+757,Gallionellaceae,aerobic_nitrite_oxidation dark_iron_oxidation,FAPROTAXv1.1
+758,Gallionellales,C_fix  N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+759,gamma,nirK nirS norB  nosZ,"(Graf et al., 2014)"
+760,Gammaproteobacteria,"C_fix   N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, aerobic_chemoheterotrophy aerobic_nitrite_oxidation dark_iron_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis methanotrophy nitrate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+761,Garciella,nitrate_reduction  nitrate_respiration,FAPROTAXv1.1
+762,Gardnerella,human_gut,FAPROTAXv1.1
+763,Gelidibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+764,Gemmata,varied,
+765,Gemmatimonadetes,N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+766,Gemmatimonas,"non-N, aerobic_chemoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+767,Gemmiger,fermentation,FAPROTAXv1.1
+768,Geoalkalibacter,dark_hydrogen_oxidation iron_respiration manganese_respiration nitrate_respiration sulfur_respiration,FAPROTAXv1.1
+769,Geobacillus,"nirK  norB nosZ, aerobic_chemoheterotrophy aliphatic_non_methane_hydrocarbon_degradation aromatic_compound_degradation arsenate_detoxification nitrate_denitrification nitrate_reduction  nitrate_respiration nitrite_respiration oil_bioremediation ureolysis xylanolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+770,Geobacter,"non-N, aromatic_compound_degradation aromatic_hydrocarbon_degradation arsenate_respiration dark_hydrogen_oxidation dark_iron_oxidation fumarate_respiration iron_respiration manganese_respiration nitrate_respiration sulfur_respiration","(Jones et al., 2008), FAPROTAXv1.1"
+771,Geobacteraceae,"N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, fumarate_respiration iron_respiration manganese_respiration sulfur_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+772,Geodermatophilaceae,aerobic_chemoheterotrophy manganese_oxidation,FAPROTAXv1.1
+773,Geodermatophilus,nitrate_reduction,FAPROTAXv1.1
+774,Geoglobus,dark_hydrogen_oxidation iron_respiration,FAPROTAXv1.1
+775,Geopsychrobacter,aromatic_compound_degradation iron_respiration sulfur_respiration,FAPROTAXv1.1
+776,Georgenia,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+777,Georgfuchsia,"Denitrification, aromatic_hydrocarbon_degradation iron_respiration manganese_respiration nitrate_denitrification","(Weelink et al., 2009), FAPROTAXv1.1"
+778,Geospirillum,iron_respiration,FAPROTAXv1.1
+779,Geothermobacter,iron_respiration nitrate_respiration,FAPROTAXv1.1
+780,Geothermobacterium,dark_hydrogen_oxidation iron_respiration,FAPROTAXv1.1
+781,Geothrix,"Denitrification, aromatic_hydrocarbon_degradation fermentation iron_respiration manganese_respiration nitrate_respiration",", FAPROTAXv1.1"
+782,Geotoga,fermentation,FAPROTAXv1.1
+783,Geovibrio,fumarate_respiration iron_respiration nitrate_respiration,FAPROTAXv1.1
+784,Gibberella,nirK  norB,"(Graf et al., 2014)"
+785,Gibbsiella,plant_pathogen,FAPROTAXv1.1
+786,Giesbergeria,non-N,"(Grabovich et al., 2006)"
+787,Gillisia,"nirK   nosZ, aerobic_chemoheterotrophy nitrate_reduction  nitrate_respiration ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+788,Gilvibacter,nitrate_reduction,FAPROTAXv1.1
+789,Glaciecola,"nirK  norB, aerobic_chemoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+790,Globicatella,fermentation,FAPROTAXv1.1
+791,Glomus,non-N,
+792,Gluconacetobacter,fermentation nitrogen_fixation,FAPROTAXv1.1
+793,Glycomyces,aerobic_chemoheterotrophy,FAPROTAXv1.1
+794,Glycomycesa,nitrate_reduction,FAPROTAXv1.1
+795,Goodfellowiella,ureolysis,FAPROTAXv1.1
+796,Gordonia,nitrate_reduction  plastic_degradation ureolysis,FAPROTAXv1.1
+797,Gordoniaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+798,Gouta19,Sulfur reduction,
+799,Gracilibacillus,nitrate_reduction  nitrate_respiration ureolysis,FAPROTAXv1.1
+800,Gracilibacter,fermentation,FAPROTAXv1.1
+801,Gramella,nosZ,"(Graf et al., 2014)"
+802,Granulicatella,fermentation,FAPROTAXv1.1
+803,Granulosicoccus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+804,Haemophilus,"nirK  norB, fumarate_respiration human_pathogens_all human_pathogens_meningitis human_pathogens_septicemia nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+805,Hafnia,animal_parasites_or_symbionts fermentation,FAPROTAXv1.1
+806,Hahella,nirS norB nosZ,"(Jones et al., 2008) , (Graf et al., 2014)"
+807,Hahellaceae,nitrate_reduction,FAPROTAXv1.1
+808,Halanaerobiaceae,cellulolysis fermentation,FAPROTAXv1.1
+809,Halanaerobium,aromatic_compound_degradation fermentation sulfur_respiration,FAPROTAXv1.1
+810,Halarsenatibacter,arsenate_respiration iron_respiration sulfur_respiration,FAPROTAXv1.1
+811,Haliangiaceae,predatory_or_exoparasitic,FAPROTAXv1.1
+812,Haliangium,non-N,"{Fudou, R., et al. (2002)}"
+813,Haliscomenobacter,norB  nosZ,"(Graf et al., 2014)"
+814,Haloactinobacterium,cellulolysis,FAPROTAXv1.1
+815,Haloanaerobiales,fermentation,FAPROTAXv1.1
+816,Haloanaerobium,fermentation,FAPROTAXv1.1
+817,Haloarcula,"nirK  norB nosZ, aerobic_chemoheterotrophy nitrate_reduction  nitrate_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+818,Halobacteriaceae,aerobic_chemoheterotrophy chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+819,Halobacterium,"nosZ, aerobic_chemoheterotrophy aromatic_compound_degradation fumarate_respiration nitrate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+820,Halobacteroidaceae,fermentation reductive_acetogenesis,FAPROTAXv1.1
+821,Halobaculum,aerobic_chemoheterotrophy,FAPROTAXv1.1
+822,Halocella,"Cellulolytic, cellulolysis",", FAPROTAXv1.1"
+823,Halochromatium,anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing,FAPROTAXv1.1
+824,Halococcus,nitrate_reduction,FAPROTAXv1.1
+825,Haloferax,"nirK  norB  nosZ, aromatic_compound_degradation fumarate_respiration oil_bioremediation","(Graf et al., 2014), FAPROTAXv1.1"
+826,Halogeometricum,nirK  norB  nosZ,"(Graf et al., 2014)"
+827,Halogranum,aerobic_chemoheterotrophy,FAPROTAXv1.1
+828,Halolamina,aerobic_chemoheterotrophy,FAPROTAXv1.1
+829,Halomicroarcula,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+830,Halomicrobium,nirK  norB,"(Graf et al., 2014)"
+831,Halomonadaceae,fermentation hydrocarbon_degradation,FAPROTAXv1.1
+832,Halomonas,"Denitrification, aromatic_compound_degradation","(Vreeland et al., 1980) (Graf et al., 2014), FAPROTAXv1.1"
+833,Halopiger,nirK  norB  nosZ,"(Graf et al., 2014)"
+834,Halorhabdus,nirK,"(Graf et al., 2014)"
+835,Halorhodospira,anoxygenic_photoautotrophy_S_oxidizing photoheterotrophy,FAPROTAXv1.1
+836,Halorubrum,"norB  nosZ, aerobic_chemoheterotrophy nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+837,Haloterrigena,"nirK  norB, nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+838,Halothiobacillaceae,anoxygenic_photoautotrophy_S_oxidizing dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation,FAPROTAXv1.1
+839,Halothiobacillus,dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration,FAPROTAXv1.1
+840,Hasllibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+841,Helcobacillus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+842,Helicobacter,animal_parasites_or_symbionts fumarate_respiration human_gut human_pathogens_all human_pathogens_gastroenteritis nitrate_reduction  ureolysis,FAPROTAXv1.1
+843,Helicobacteraceae,dark_hydrogen_oxidation dark_oxidation_of_sulfur_compounds fumarate_respiration nitrate_respiration,FAPROTAXv1.1
+844,Heliobacteriaceae,fermentation photoheterotrophy,FAPROTAXv1.1
+845,Heliobacterium,nitrogen_fixation,FAPROTAXv1.1
+846,Heliorestis,nitrogen_fixation,FAPROTAXv1.1
+847,Henriciella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+848,Herbaspirillum,"Denitrification, dark_hydrogen_oxidation manganese_oxidation nitrate_reduction  nitrate_respiration nitrogen_fixation plant_pathogen ureolysis","(Baldani et al., 1986) (Graf et al., 2014), FAPROTAXv1.1"
+849,Herbiconiux,aerobic_chemoheterotrophy xylanolysis,FAPROTAXv1.1
+850,Herbinix,cellulolysis,FAPROTAXv1.1
+851,Herbivorax,cellulolysis fermentation xylanolysis,FAPROTAXv1.1
+852,Herminiimonas,"non-N, aerobic_chemoheterotrophy arsenate_detoxification arsenite_oxidation_detoxification nitrate_denitrification","(Ferndes et al., 2005) (Graf et al., 2014), FAPROTAXv1.1"
+853,Herpetosiphon,"nirK, cellulolysis","(Graf et al., 2014), FAPROTAXv1.1"
+854,Hespellia,fermentation,FAPROTAXv1.1
+855,Heteroc45_4W,non-N,
+856,hgcI clade,varied,
+857,higella,fermentation,FAPROTAXv1.1
+858,Histoplasma,nirK  norB,"(Graf et al., 2014)"
+859,Hoeflea,aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy oil_bioremediation,FAPROTAXv1.1
+860,Holdemania,human_gut,FAPROTAXv1.1
+861,Holophaga,"non-N, aromatic_compound_degradation reductive_acetogenesis","(Liesack et al., 1994), FAPROTAXv1.1"
+862,Holophagaceae,aromatic_compound_degradation fermentation,FAPROTAXv1.1
+863,Holosporaceae,intracellular_parasites,FAPROTAXv1.1
+864,Homoserinimonas,aerobic_chemoheterotrophy,FAPROTAXv1.1
+865,Huaishuia,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+866,Humibacillus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+867,Humitalea,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+868,Hwanghaeicola,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+869,Hydrocarboniphaga,aliphatic_non_methane_hydrocarbon_degradation aromatic_compound_degradation,FAPROTAXv1.1
+870,Hydrogenimonas,dark_hydrogen_oxidation,FAPROTAXv1.1
+871,Hydrogenispora,fermentation,FAPROTAXv1.1
+872,Hydrogenobacter,"nirS norB nosZ, dark_hydrogen_oxidation dark_oxidation_of_sulfur_compounds","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+873,Hydrogenobaculum,arsenite_oxidation_detoxification dark_hydrogen_oxidation,FAPROTAXv1.1
+874,Hydrogenomonas,dark_hydrogen_oxidation,FAPROTAXv1.1
+875,Hydrogenophaga,"Denitrification, aerobic_chemoheterotrophy dark_hydrogen_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis nitrate_denitrification nitrate_reduction  plant_pathogen ureolysis","(Willems et al., 1989), FAPROTAXv1.1"
+876,Hydrogenophilaceae,dark_oxidation_of_sulfur_compounds dark_sulfide_oxidation knallgas_bacteria,FAPROTAXv1.1
+877,Hydrogenophilales,C_fix   N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+878,Hydrogenophilus,nitrate_respiration ureolysis,FAPROTAXv1.1
+879,Hydrogenothermus,knallgas_bacteria,FAPROTAXv1.1
+880,Hydrogenovibrio,dark_hydrogen_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation knallgas_bacteria,FAPROTAXv1.1
+881,Hydrotalea,aerobic_chemoheterotrophy,FAPROTAXv1.1
+882,Hymenobacter,"non-N, nitrate_reduction","(Reddy, 2013), FAPROTAXv1.1"
+883,Hyphomicrobiaceae,aerobic_chemoheterotrophy anoxygenic_photoautotrophy_S_oxidizing dark_hydrogen_oxidation fermentation nitrate_denitrification nitrate_reduction  nitrogen_fixation photoheterotrophy ureolysis,FAPROTAXv1.1
+884,Hyphomicrobium,"Denitrification, nitrate_reduction  ureolysis","(Moore, 1981) (Graf et al., 2014), FAPROTAXv1.1"
+885,Hyphomonadaceae_family_SWB02,varied,
+886,Hyphomonas,aerobic_chemoheterotrophy dark_iron_oxidation nitrate_denitrification nitrate_reduction,FAPROTAXv1.1
+887,Iamia,aerobic_chemoheterotrophy nitrate_denitrification,FAPROTAXv1.1
+888,Ideonella,"non-N, nitrate_respiration","(Malmqvist et al., 1994), FAPROTAXv1.1"
+889,Idiomarina,nirK  norB,"(Jones et al., 2008) , (Graf et al., 2014)"
+890,Ignavibacteria,N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+891,Ignavibacterium,Sulfur reduction,"{Iino, T., et al. (2010)} (Graf et al., 2014)"
+892,Ignavigranum,aerobic_chemoheterotrophy,FAPROTAXv1.1
+893,Ilumatobacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+894,Ilyobacter,aromatic_compound_degradation,FAPROTAXv1.1
+895,Imtechella,nirK  norB  nosZ,"(Graf et al., 2014)"
+896,Incisomonas,non-N,"(Cavalier-Smith and Scoble, 2013)"
+897,Indibacter,nirK  norB,"(Graf et al., 2014)"
+898,Intrasporangiaceae,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+899,Intrasporangium,"nirK  norB, aerobic_chemoheterotrophy nitrate_reduction  nitrate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+900,Iodobacter,nitrate_reduction,FAPROTAXv1.1
+901,IS-44,Ammonia oxidation,
+902,Isoptericola,chitinolysis nitrate_reduction,FAPROTAXv1.1
+903,Jahnia,xylanolysis,FAPROTAXv1.1
+904,Janibacter,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+905,Janthinobacterium,"non-N, chitinolysis nitrate_reduction  plant_pathogen","(Ciesielski et al., 2014) (Shoemaker et al., 2015) (Hornung et al., 2013), FAPROTAXv1.1"
+906,Jatrophihabitans,aerobic_chemoheterotrophy,FAPROTAXv1.1
+907,Jejudonia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+908,Jettenia,anammox,FAPROTAXv1.1
+909,JGI 0001001-H03,varied,
+910,Jhaorihella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+911,Jiangella,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+912,Jonesia,"nirK, cellulolysis nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+913,Joostella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+914,Kaistia,"Denitrification, aerobic_chemoheterotrophy","(Im et al., 2004), FAPROTAXv1.1"
+915,Kaistobacter,non-N,
+916,Kandleria,fermentation,FAPROTAXv1.1
+917,Kangiella,nirK nirS norB,"(Graf et al., 2014)"
+918,Kerstersia,human_pathogens_all,FAPROTAXv1.1
+919,Kibdelosporangium,nitrate_reduction  ureolysis,FAPROTAXv1.1
+920,Kineococcus,ureolysis,FAPROTAXv1.1
+921,Kineosphaera,nirK  norB,"(Graf et al., 2014)"
+922,Kineosporia,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+923,Kineosporiaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+924,Kingella,"nirK  norB  nosZ, human_pathogens_all","(Graf et al., 2014), FAPROTAXv1.1"
+925,Kitasatospora,nitrate_reduction,FAPROTAXv1.1
+926,Klebsiella,dark_thiosulfate_oxidation DNRA fermentation human_gut human_pathogens_all human_pathogens_nosocomia human_pathogens_pneumonia human_pathogens_septicemia iron_respiration ligninolysis,FAPROTAXv1.1
+927,Knoellia,Denitrification,"(Groth et al., 2002)"
+928,Kocuria,arsenate_detoxification nitrate_reduction  ureolysis,FAPROTAXv1.1
+929,Kordiimonas,aromatic_hydrocarbon_degradation,FAPROTAXv1.1
+930,Koribacter,aerobic_chemoheterotrophy xylanolysis,FAPROTAXv1.1
+931,Kosmotoga,fermentation,FAPROTAXv1.1
+932,Kuenenia,"Ammox, anammox","(Groth et al., 2002) (Jones et al., 2008), FAPROTAXv1.1"
+933,Kurthia,chitinolysis,FAPROTAXv1.1
+934,Kutzneria,nitrate_reduction,FAPROTAXv1.1
+935,Kyrpidia,aerobic_chemoheterotrophy knallgas_bacteria nitrate_reduction  ureolysis,FAPROTAXv1.1
+936,Labedella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+937,Labrenzia,"nirS norB  nosZ, aerobic_chemoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+938,Labrys,aerobic_chemoheterotrophy,FAPROTAXv1.1
+939,Lachnospira,fermentation,FAPROTAXv1.1
+940,Lachnospiraceae,animal_parasites_or_symbionts aromatic_compound_degradation dark_hydrogen_oxidation fermentation human_gut nitrate_reduction  reductive_acetogenesis,FAPROTAXv1.1
+941,Lacinutrix,aerobic_chemoheterotrophy,FAPROTAXv1.1
+942,Lactobacillaceae,fermentation,FAPROTAXv1.1
+943,Lactobacillus,DNRA fermentation human_gut nitrite_ammonification,FAPROTAXv1.1
+944,Lactococcus,fermentation plant_pathogen,FAPROTAXv1.1
+945,Lactosphaera,fermentation,FAPROTAXv1.1
+946,Lacunisphaera,non-N,"{Rast, P., et al. (2017)}"
+947,Lamprobacter,anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing nitrogen_fixation ureolysis,FAPROTAXv1.1
+948,Lapillicoccus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+949,Larkinella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+950,Lautropia,nirK  norB  nosZ,"(Graf et al., 2014)"
+951,Lebetimonas,dark_hydrogen_oxidation sulfur_respiration,FAPROTAXv1.1
+952,Lechevalieria,nitrate_reduction  ureolysis,FAPROTAXv1.1
+953,Legionella,"non-N, human_pathogens_all human_pathogens_pneumonia","(Jones et al., 2008), FAPROTAXv1.1"
+954,Legionellaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+955,Legionellales,"S_cycle   H2_ox  H2_prod   aerobic, intracellular_parasites","(Antharaman et al., 2016), FAPROTAXv1.1"
+956,Leifsonia,fermentation nitrate_reduction  plant_pathogen ureolysis,FAPROTAXv1.1
+957,Leisingera,methylotrophy,FAPROTAXv1.1
+958,Leminorella,human_pathogens_all human_pathogens_gastroenteritis,FAPROTAXv1.1
+959,Lentibacillus,nitrate_reduction,FAPROTAXv1.1
+960,Lentisphaeraceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+961,Lentisphaerae,C_fix  N_fix  N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+962,Lentzea,ureolysis,FAPROTAXv1.1
+963,Leptolinea,"non-N, fermentation","(Yamada et al. 2006)?, FAPROTAXv1.1"
+964,Leptolyngbya,N fixation,"(Shimura et al., 2015)"
+965,Leptonema,non-N,"(Graf et al., 2014)"
+966,Leptospira,non-N,"(Graf et al., 2014)"
+967,Leptospirillum,dark_iron_oxidation nitrogen_fixation,FAPROTAXv1.1
+968,Leptothrix,"nirS norB  nosZ, dark_iron_oxidation manganese_oxidation","(Graf et al., 2014), FAPROTAXv1.1"
+969,Leptotrichia,non-N,"{Couturier, M. R., et al. (2012)}"
+970,Leptotrichiaceae,fermentation,FAPROTAXv1.1
+971,Leucobacter,nitrate_reduction  ureolysis,FAPROTAXv1.1
+972,Leuconostoc,fermentation plant_pathogen,FAPROTAXv1.1
+973,Leuconostocaceae,fermentation,FAPROTAXv1.1
+974,Levilinea,"non-N, fermentation","{Yamada, T., et al. (2006)}, FAPROTAXv1.1"
+975,Lewinella,nitrate_reduction,FAPROTAXv1.1
+976,Limnobacter,"Sulfur oxidation, aerobic_chemoheterotrophy dark_thiosulfate_oxidation","{Spring, S., et al. (2001)}, FAPROTAXv1.1"
+977,Limonium,chitinolysis,FAPROTAXv1.1
+978,Listeria,human_gut human_pathogens_all plant_pathogen,FAPROTAXv1.1
+979,Listeriaceae,fermentation,FAPROTAXv1.1
+980,Litorilinea,aerobic_chemoheterotrophy,FAPROTAXv1.1
+981,Loktanella,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+982,Lonepinella,animal_parasites_or_symbionts fermentation,FAPROTAXv1.1
+983,Longimonas,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+984,Longispora,nitrate_reduction,FAPROTAXv1.1
+985,Lonsdalea,plant_pathogen,FAPROTAXv1.1
+986,Luedemannella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+987,Luteimonas,Denitrification,"{Finkmann, W., et al. (2000)}"
+988,Luteipulveratus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+989,Luteococcus,fermentation nitrate_reduction,FAPROTAXv1.1
+990,Luteolibacter,non-N,"(Glaeser et al., 2012)"
+991,Lutibaculum,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+992,Lutiella,nirS norB  nosZ,"(Graf et al., 2014)"
+993,Lysinibacillus,invertebrate_parasites  xylanolysis,FAPROTAXv1.1
+994,Lysobacter,"Degrade chitin, ureolysis","(CHRISTENSEN and Cook, 1978), FAPROTAXv1.1"
+995,Macellibacteroides,non-N,"(Jabari et al., 2012)"
+996,Macromonas,ureolysis,FAPROTAXv1.1
+997,Magnetococcus,"norB, nitrogen_fixation","(Jones et al., 2008), FAPROTAXv1.1"
+998,Magnetospirillum,"non-N, aerobic_chemoheterotrophy nitrate_denitrification nitrate_respiration nitrogen_fixation","(Thrash et al., 2010) (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+999,Malikia,Denitrification,"(Spring et al., 2005)"
+1000,Mameliella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1001,Mangrovibacterium,aerobic_chemoheterotrophy cellulolysis fermentation nitrogen_fixation,FAPROTAXv1.1
+1002,Mannheimia,nirK  norB,"(Jones et al., 2008) , (Graf et al., 2014)"
+1003,Maribacter,"nirK  norB  nosZ, nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1004,Maricaulis,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1005,Marichromatium,anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing nitrogen_fixation,FAPROTAXv1.1
+1006,Marihabitans,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1007,Marine,nirK,"(Graf et al., 2014)"
+1008,Marinilabilia,nirK  norB  nosZ,"(Graf et al., 2014)"
+1009,Marinilabiliaceae,fermentation,FAPROTAXv1.1
+1010,Marinilactibacillus,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+1011,Marinimicrobium,xylanolysis,FAPROTAXv1.1
+1012,Mariniphaga,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+1013,Marinitoga,sulfur_respiration,FAPROTAXv1.1
+1014,Marinobacter,"nirK nirS norB nosZ, aerobic_chemoheterotrophy aliphatic_non_methane_hydrocarbon_degradation aromatic_hydrocarbon_degradation arsenate_respiration dark_iron_oxidation denitrification fermentation nitrate_denitrification nitrate_respiration oil_bioremediation ureolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1015,Marinobacterium,aerobic_chemoheterotrophy aromatic_compound_degradation methanol_oxidation nitrate_reduction  nitrogen_fixation ureolysis,FAPROTAXv1.1
+1016,Marinococcus,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1017,Marinomonas,nitrate_reduction,FAPROTAXv1.1
+1018,Marinospirillum,nitrate_reduction  oil_bioremediation,FAPROTAXv1.1
+1019,Marinovum,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1020,Mariprofundus,dark_iron_oxidation,FAPROTAXv1.1
+1021,Maritimibacter,"nirK  norB  nosZ, aerobic_chemoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+1022,Marivita,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1023,Marixanthomonas,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1024,Martelella,aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation fermentation,FAPROTAXv1.1
+1025,Marvinbryantia,reductive_acetogenesis,FAPROTAXv1.1
+1026,Massilia,Denitrification,"(Lindquist et al., 2003)"
+1027,Megasphaera,"non-N, fermentation","(Rogosa, 1971), FAPROTAXv1.1"
+1028,Meiothermus,aerobic_chemoheterotrophy dark_thiosulfate_oxidation fumarate_respiration nitrate_reduction  xylanolysis,FAPROTAXv1.1
+1029,Melioribacter,"nosZ, aerobic_chemoheterotrophy arsenate_respiration cellulolysis fermentation iron_respiration nitrite_respiration xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1030,Melittangium,xylanolysis,FAPROTAXv1.1
+1031,Meridianimaribacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1032,Mesoflavibacter,aerobic_chemoheterotrophy xylanolysis,FAPROTAXv1.1
+1033,Mesonia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1034,mesophilicum,plastic_degradation,FAPROTAXv1.1
+1035,Mesophilobacter,nitrate_reduction,FAPROTAXv1.1
+1036,Mesorhizobium,"N fixation, nitrogen_fixation","https://en.wikipedia.org/wiki/Mesorhizobium (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1037,metagenome,unclassified,
+1038,Metallibacterium,aerobic_chemoheterotrophy iron_respiration,FAPROTAXv1.1
+1039,Metallosphaera,dark_iron_oxidation,FAPROTAXv1.1
+1040,Metascardovia,fermentation,FAPROTAXv1.1
+1041,Methanoarchaeota,methanogenesis,FAPROTAXv1.1
+1042,Methanobacteriaceae,methanogenesis_by_CO2_reduction_with_H2,FAPROTAXv1.1
+1043,Methanobacteriales,dark_hydrogen_oxidation hydrogenotrophic_methanogenesis,FAPROTAXv1.1
+1044,Methanobacterium,"non-N, dark_hydrogen_oxidation methanogenesis_by_CO2_reduction_with_H2 methanogenesis_by_reduction_of_methyl_compounds_with_H2 methanogenesis_using_formate methanol_oxidation","(Zeikus and Wolee, 1972), FAPROTAXv1.1"
+1045,Methanobrevibacter,"Methanogen, human_gut",", FAPROTAXv1.1"
+1046,Methanocellales,methanogenesis,FAPROTAXv1.1
+1047,Methanococcaceae,hydrogenotrophic_methanogenesis methanogenesis_using_formate,FAPROTAXv1.1
+1048,Methanococcales,methanogenesis methanogenesis_by_CO2_reduction_with_H2 methanogenesis_using_formate,FAPROTAXv1.1
+1049,Methanococcoides,methanogenesis methanol_oxidation,FAPROTAXv1.1
+1050,Methanococcus,dark_hydrogen_oxidation nitrogen_fixation,FAPROTAXv1.1
+1051,Methanocorpusculaceae,methanogenesis_by_CO2_reduction_with_H2,FAPROTAXv1.1
+1052,Methanoculleus,methanogenesis_using_formate,FAPROTAXv1.1
+1053,Methanogranum,dark_hydrogen_oxidation methanogenesis_by_reduction_of_methyl_compounds_with_H2,FAPROTAXv1.1
+1054,Methanolinea,dark_hydrogen_oxidation methanogenesis_by_CO2_reduction_with_H2 methanogenesis_using_formate,FAPROTAXv1.1
+1055,Methanomassiliicoccaceae,methanogenesis_by_reduction_of_methyl_compounds_with_H2,FAPROTAXv1.1
+1056,Methanomassiliicoccales,methylotrophy,FAPROTAXv1.1
+1057,Methanomassiliicoccus,"Methanogen, dark_hydrogen_oxidation methanogenesis methanogenesis_by_reduction_of_methyl_compounds_with_H2","(Dridi et al., 2012), FAPROTAXv1.1"
+1058,Methanomethylophilus,methanogenesis methylotrophy,FAPROTAXv1.1
+1059,Methanomicrobiaceae,methanogenesis_by_CO2_reduction_with_H2 methanogenesis_using_formate,FAPROTAXv1.1
+1060,Methanomicrobiales,methanogenesis_by_CO2_reduction_with_H2,FAPROTAXv1.1
+1061,Methanomicrococcus,methanogenesis_by_reduction_of_methyl_compounds_with_H2,FAPROTAXv1.1
+1062,Methanomonas,methanotrophy,FAPROTAXv1.1
+1063,Methanoperedens,methanotrophy nitrate_respiration,FAPROTAXv1.1
+1064,Methanoplasma,dark_hydrogen_oxidation methanogenesis_by_reduction_of_methyl_compounds_with_H2,FAPROTAXv1.1
+1065,Methanopyrales,methanogenesis methanogenesis_by_CO2_reduction_with_H2,FAPROTAXv1.1
+1066,Methanoregula,dark_hydrogen_oxidation hydrogenotrophic_methanogenesis methanogenesis_by_CO2_reduction_with_H2,FAPROTAXv1.1
+1067,Methanosaeta,"non-N, plastic_degradation","(Smith and Ingram-Smith, 2007), FAPROTAXv1.1"
+1068,Methanosarcina,"Methanogen, fermentation methanogenesis_by_CO2_reduction_with_H2 nitrogen_fixation sulfur_respiration",", FAPROTAXv1.1"
+1069,Methanosarcinaceae,dark_hydrogen_oxidation methanogenesis_by_CO2_reduction_with_H2,FAPROTAXv1.1
+1070,Methanosarcinales,methanogenesis methanogenesis_by_disproportionation_of_methyl_groups,FAPROTAXv1.1
+1071,Methanosphaera,dark_hydrogen_oxidation methanogenesis_by_reduction_of_methyl_compounds_with_H2,FAPROTAXv1.1
+1072,Methanospirillaceae,dark_hydrogen_oxidation methanogenesis_by_CO2_reduction_with_H2 methanogenesis_using_formate nitrogen_fixation,FAPROTAXv1.1
+1073,Methanospirillum,"Methanogen, plastic_degradation","(Ferry et al., 1974), FAPROTAXv1.1"
+1074,Methanothermaceae,methanogenesis_by_CO2_reduction_with_H2,FAPROTAXv1.1
+1075,Methanothermobacter,dark_hydrogen_oxidation methanogenesis_by_CO2_reduction_with_H2 nitrogen_fixation,FAPROTAXv1.1
+1076,Methanothermococcus,nitrogen_fixation,FAPROTAXv1.1
+1077,Methylacidiphilum,"nirK  norB, methanotrophy nitrogen_fixation","(Graf et al., 2014), FAPROTAXv1.1"
+1078,Methylarcula,manganese_oxidation,FAPROTAXv1.1
+1079,Methylibium,aromatic_compound_degradation methanol_oxidation,FAPROTAXv1.1
+1080,Methyloacida,methanotrophy,FAPROTAXv1.1
+1081,Methylobacillus,methanol_oxidation nitrate_reduction  ureolysis,FAPROTAXv1.1
+1082,Methylobacter,"Methanotroph, methanotrophy nitrogen_fixation ureolysis","(wikipedia), FAPROTAXv1.1"
+1083,Methylobacteriaceae,aerobic_chemoheterotrophy methanol_oxidation ureolysis,FAPROTAXv1.1
+1084,Methylobacterium,"non-N, aerobic_anoxygenic_phototrophy dark_thiosulfate_oxidation methylotrophy","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1085,Methylocaldum,methanotrophy,FAPROTAXv1.1
+1086,Methylocapsa,methanotrophy nitrogen_fixation,FAPROTAXv1.1
+1087,Methylocella,"nirK  norB, methanotrophy nitrogen_fixation","(Graf et al., 2014), FAPROTAXv1.1"
+1088,Methylococcaceae,"Methanotroph, methanotrophy nitrate_reduction","{Bowman, J. (2006)}, FAPROTAXv1.1"
+1089,Methylococcus,"norB, methanotrophy","(Jones et al., 2008), FAPROTAXv1.1"
+1090,Methylocystaceae,methanotrophy nitrate_reduction  nitrogen_fixation ureolysis,FAPROTAXv1.1
+1091,Methylocystis,"non-N, fermentation methanotrophy","(Belova et al., 2013) (Graf et al., 2014), FAPROTAXv1.1"
+1092,Methyloferula,methanotrophy,FAPROTAXv1.1
+1093,Methylogaea,methanotrophy,FAPROTAXv1.1
+1094,Methyloglobulus,methanol_oxidation methanotrophy nitrogen_fixation,FAPROTAXv1.1
+1095,Methylohalobius,methanotrophy,FAPROTAXv1.1
+1096,Methylohalomonas,methanol_oxidation,FAPROTAXv1.1
+1097,Methylokorus,methanotrophy,FAPROTAXv1.1
+1098,Methylomarinovum,methanotrophy,FAPROTAXv1.1
+1099,Methylomarinum,methanotrophy,FAPROTAXv1.1
+1100,Methylomicrobium,methanotrophy,FAPROTAXv1.1
+1101,Methylomirabilis,methanotrophy nitrite_denitrification,FAPROTAXv1.1
+1102,Methylomonas,"Methanotroph, methanol_oxidation methanotrophy nitrogen_fixation",", FAPROTAXv1.1"
+1103,Methylonatrum,methanol_oxidation,FAPROTAXv1.1
+1104,Methylophaga,non-N,"(Graf et al., 2014)"
+1105,Methylophilaceae,methanol_oxidation ureolysis,FAPROTAXv1.1
+1106,Methylophilales,N_cycle  S_cycle     C1_ox  aerobic,"(Antharaman et al., 2016)"
+1107,Methylophilus,methanol_oxidation nitrate_reduction,FAPROTAXv1.1
+1108,Methylosarcina,"non-N, methanotrophy",", FAPROTAXv1.1"
+1109,Methylosineae,methanotrophy,FAPROTAXv1.1
+1110,Methylosinus,"Denitrification, aliphatic_non_methane_hydrocarbon_degradation methanotrophy","(Sullivan et al., 1998), FAPROTAXv1.1"
+1111,Methylosoma,methanotrophy,FAPROTAXv1.1
+1112,Methylosphaera,methanol_oxidation methanotrophy nitrogen_fixation,FAPROTAXv1.1
+1113,Methylotenera,non-N,"(Kalyuzhya et al., 2006) (Graf et al., 2014) , (Antharaman et al., 2016)"
+1114,Methyloterrigena,methanol_oxidation,FAPROTAXv1.1
+1115,Methylothermaceae,methanotrophy,FAPROTAXv1.1
+1116,Methylothermus,"Denitrification, methanotrophy","(Tsubota et al., 2005), FAPROTAXv1.1"
+1117,Methylovarius,methanotrophy,FAPROTAXv1.1
+1118,Methyloversatilis,non-N,"(Kalyuzhya et al., 2006)"
+1119,Methylovirgula,methanol_oxidation nitrogen_fixation,FAPROTAXv1.1
+1120,Methylovulum,"Methanotroph, methanotrophy","{Iguchi, H., et al. (2011)}, FAPROTAXv1.1"
+1121,Microbacteriaceae,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+1122,Microbacterium,arsenate_detoxification ligninolysis nitrate_reduction  nitrate_respiration oil_bioremediation ureolysis xylanolysis,FAPROTAXv1.1
+1123,Microbispora,nitrate_reduction,FAPROTAXv1.1
+1124,Microbulbifer,cellulolysis chitinolysis xylanolysis,FAPROTAXv1.1
+1125,Microcella,ureolysis,FAPROTAXv1.1
+1126,Micrococcaceae,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+1127,Micrococcales,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+1128,Micrococcus,cellulolysis ligninolysis nitrate_denitrification nitrate_reduction  plastic_degradation,FAPROTAXv1.1
+1129,Microgenomates group,S_cycle   H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+1130,Microlunatus,"nirK  norB, nitrate_reduction  nitrate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+1131,Micromonospora,"non-N, cellulolysis chitinolysis nitrate_reduction  xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1132,Micromonosporaceae,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1133,Microtetraspora,ureolysis xylanolysis,FAPROTAXv1.1
+1134,Microvirgula,aerobic_chemoheterotrophy methanol_oxidation nitrate_denitrification nitrite_denitrification nitrous_oxide_denitrification,FAPROTAXv1.1
+1135,Miniimonas,nitrate_reduction,FAPROTAXv1.1
+1136,Mitsuaria,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1137,Mizugakiibacter,nitrate_respiration,FAPROTAXv1.1
+1138,Mobilicoccus,"nirK  norB, aerobic_chemoheterotrophy nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1139,Mobiluncus,fermentation human_gut,FAPROTAXv1.1
+1140,Modestobacter,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1141,Moheibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1142,Moorella,fermentation methanol_oxidation nitrate_respiration nitrogen_fixation reductive_acetogenesis,FAPROTAXv1.1
+1143,Moraxella,"nirK  norB, aliphatic_non_methane_hydrocarbon_degradation fermentation nitrate_reduction  plastic_degradation","(Graf et al., 2014), FAPROTAXv1.1"
+1144,Moraxellaceae,aerobic_chemoheterotrophy aromatic_compound_degradation fermentation human_pathogens_all,FAPROTAXv1.1
+1145,Morganella,human_pathogens_all human_pathogens_diarrhea,FAPROTAXv1.1
+1146,Moritella,"nosZ, nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1147,Mucilaginibacter,"non-N, aerobic_chemoheterotrophy xylanolysis","(Pankratov et al., 2007), FAPROTAXv1.1"
+1148,Muricauda,nirK  norB  nosZ,"(Graf et al., 2014)"
+1149,Myceligenerans,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+1150,Mycetocola,ureolysis,FAPROTAXv1.1
+1151,Mycobacterium,"non-N, aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation human_pathogens_all human_pathogens_pneumonia methanol_oxidation nitrate_reduction  plastic_degradation ureolysis","(Butler et al., 1993) (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1152,Mycolatopsis,ligninolysis,FAPROTAXv1.1
+1153,Mycoplana,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1154,Mycoplasma,"non-N, animal_parasites_or_symbionts human_pathogens_all human_pathogens_pneumonia","(Wodke et al., 2013), FAPROTAXv1.1"
+1155,Mycoplasmataceae,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+1156,Myroides,"nirK  norB  nosZ, human_pathogens_all","(Graf et al., 2014), FAPROTAXv1.1"
+1157,Myxococcaceae,xylanolysis,FAPROTAXv1.1
+1158,Myxococcales,predatory_or_exoparasitic,FAPROTAXv1.1
+1159,Myxococcus,cellulolysis,FAPROTAXv1.1
+1160,Naasia,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1161,Nakamurellaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1162,Nannocystis,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1163,Natranaerobius,fumarate_respiration nitrate_respiration,FAPROTAXv1.1
+1164,Natrinema,nitrate_reduction,FAPROTAXv1.1
+1165,Natroniella,reductive_acetogenesis,FAPROTAXv1.1
+1166,Natronincola,reductive_acetogenesis,FAPROTAXv1.1
+1167,Natronomonas,nirK,"(Jones et al., 2008) , (Graf et al., 2014)"
+1168,Nautella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1169,Nautilia,dark_hydrogen_oxidation DNRA sulfur_respiration ureolysis,FAPROTAXv1.1
+1170,Nautiliaceae,dark_hydrogen_oxidation nitrate_respiration sulfur_respiration,FAPROTAXv1.1
+1171,Neisseria,"nirK  norB nosZ, human_pathogens_all human_pathogens_meningitis human_pathogens_septicemia nitrate_reduction  nitrite_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1172,Neisseriaceae,aerobic_chemoheterotrophy fermentation methanol_oxidation nitrate_denitrification nitrate_reduction  nitrite_denitrification nitrous_oxide_denitrification,FAPROTAXv1.1
+1173,Neocallimastix,xylanolysis,FAPROTAXv1.1
+1174,Neochlamydia,obligate parasite,"{Horn, M., et al. (2000)}"
+1175,Neosartorya,nirK,"(Graf et al., 2014)"
+1176,Neptunomonas,aromatic_hydrocarbon_degradation oil_bioremediation,FAPROTAXv1.1
+1177,Nereida,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1178,Nesterenkonia,cellulolysis ureolysis,FAPROTAXv1.1
+1179,Nevskia,"non-N, aerobic_chemoheterotrophy","{Kim, S.-J., et al. (2011)}, FAPROTAXv1.1"
+1180,Niabella,non-N,"(Kim et al., 2007) (Graf et al., 2014)"
+1181,Niastella,nosZ,"(Graf et al., 2014)"
+1182,Nisaea,"nirK   nosZ, nitrate_denitrification nitrite_respiration","(Jones et al., 2008), FAPROTAXv1.1"
+1183,Nitratifractor,"Denitrification, knallgas_bacteria nitrate_denitrification","(kagawa et al., 2005) (Graf et al., 2014), FAPROTAXv1.1"
+1184,Nitratireductor,"Denitrification, aerobic_chemoheterotrophy","(Labb_ et al., 2004) (Graf et al., 2014), FAPROTAXv1.1"
+1185,Nitratiruptor,"Denitrification, dark_hydrogen_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation knallgas_bacteria nitrate_denitrification","(kagawa et al., 2005) (Graf et al., 2014), FAPROTAXv1.1"
+1186,Nitriliruptor,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1187,Nitrobacter,Nitrite oxidation,"(Jones et al., 2008) , (Graf et al., 2014)"
+1188,Nitrolancea,aerobic_nitrite_oxidation,FAPROTAXv1.1
+1189,Nitrosoarchaeum,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1190,Nitrosocaldaceae,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1191,Nitrosocaldus,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1192,Nitrosococcus,"Nitrite oxidation, ureolysis","Paul 2015-book? (Graf et al., 2014), FAPROTAXv1.1"
+1193,Nitrosocosmicus,Ammonia oxidation,
+1194,Nitrosomonadaceae_family_Ellin6067,Ammonia oxidation,
+1195,Nitrosomonadaceae_family_GOUTA6,Ammonia oxidation,0
+1196,Nitrosomonadaceae_family_MND1,Ammonia oxidation,0
+1197,Nitrosomonadales,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1198,Nitrosomonas,"Ammonia oxidation, ureolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1199,Nitrosopelagicus,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1200,Nitrosopumilaceae,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1201,Nitrosopumilus,"Ammonia oxidation, aerobic_ammonia_oxidation","(Graf et al., 2014), FAPROTAXv1.1"
+1202,Nitrososphaera,"Ammonia oxidation, aerobic_ammonia_oxidation ureolysis",", FAPROTAXv1.1"
+1203,Nitrososphaerales,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1204,Nitrosospira,Ammonia oxidation,"(Meincke et al., 1989) (Jones et al., 2008) , (Graf et al., 2014)"
+1205,Nitrosotalea,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1206,Nitrosotenuis,aerobic_ammonia_oxidation,FAPROTAXv1.1
+1207,Nitrosovibrio,Ammonia oxidation,
+1208,Nitrospina,Nitrite oxidation,
+1209,Nitrospinaceae,aerobic_nitrite_oxidation,FAPROTAXv1.1
+1210,Nitrospinae,C_fix   N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+1211,Nitrospira,"Nitrite oxidation, aerobic_ammonia_oxidation aerobic_nitrite_oxidation",", FAPROTAXv1.1"
+1212,Nitrospirae,"C_fix  N_fix  N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, aerobic_nitrite_oxidation nitrate_respiration sulfate_respiration thiosulfate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+1213,Nitrospirillum,N fixation,"(Chung et al., 2015)"
+1214,Nitrotoga,aerobic_nitrite_oxidation,FAPROTAXv1.1
+1215,Niveispirillum,nitrogen_fixation,FAPROTAXv1.1
+1216,Nocardia,"nirK  norB, aerobic_chemoheterotrophy human_pathogens_all ligninolysis nitrate_reduction  plant_pathogen","(Graf et al., 2014), FAPROTAXv1.1"
+1217,Nocardiaceae,aerobic_chemoheterotrophy aliphatic_non_methane_hydrocarbon_degradation aromatic_compound_degradation aromatic_hydrocarbon_degradation ureolysis,FAPROTAXv1.1
+1218,Nocardioidaceae,aerobic_chemoheterotrophy aromatic_compound_degradation,FAPROTAXv1.1
+1219,Nocardioides,"nirK, aerobic_chemoheterotrophy aromatic_compound_degradation nitrate_denitrification nitrate_reduction  xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1220,Nocardiopsaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1221,Nocardiopsis,chitinolysis nitrate_reduction  ureolysis,FAPROTAXv1.1
+1222,non-N,non-N,
+1223,Nonomuraea,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1224,Nostoc,nitrogen_fixation,FAPROTAXv1.1
+1225,Novosphingobium,"non-N, aromatic_compound_degradation aromatic_hydrocarbon_degradation",", FAPROTAXv1.1"
+1226,Oceanicaulis,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1227,Oceanicola,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+1228,Oceanimonas,"nirK  norB, aerobic_chemoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+1229,Oceaniovalibus,"nirK  norB  nosZ, aerobic_chemoheterotrophy nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1230,Oceanisphaera,aerobic_chemoheterotrophy manganese_oxidation nitrate_reduction,FAPROTAXv1.1
+1231,Oceanithermus,"nirS norB, aerobic_chemoheterotrophy nitrate_respiration nitrite_respiration sulfur_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+1232,Oceanobacillus,nitrate_reduction,FAPROTAXv1.1
+1233,Oceanospirillaceae,aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation nitrate_reduction,FAPROTAXv1.1
+1234,Oceanospirillales,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1235,Oceanotoga,fermentation sulfur_respiration thiosulfate_respiration xylanolysis,FAPROTAXv1.1
+1236,Ochrobactrum,"nirK  norB nosZ, aerobic_chemoheterotrophy animal_parasites_or_symbionts ligninolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1237,Octadecabacter,"nirK, aerobic_chemoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+1238,Odoribacter,fermentation,FAPROTAXv1.1
+1239,Oenocuccus,fermentation,FAPROTAXv1.1
+1240,Oerskovia,fermentation ureolysis,FAPROTAXv1.1
+1241,Oleiphilus,aliphatic_non_methane_hydrocarbon_degradation,FAPROTAXv1.1
+1242,Oleispira,aliphatic_non_methane_hydrocarbon_degradation,FAPROTAXv1.1
+1243,Oligella,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1244,Oligotropha,nirK   nosZ,"(Graf et al., 2014)"
+1245,Omnitrophica,C_fix  N_fix  N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+1246,Omnitrophica WOR_2,C_fix   N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+1247,Opitutaceae,"nosZ, fermentation nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1248,Opitutus,"Denitrification, xylanolysis","(Chin et al., 2001) (Graf et al., 2014), FAPROTAXv1.1"
+1249,Or-59,non-N,"(Sangwan et al., 2004)"
+1250,Orenia,dark_hydrogen_oxidation fermentation iron_respiration manganese_respiration nitrogen_fixation,FAPROTAXv1.1
+1251,Ornithinibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1252,Ornithinimicrobium,nitrate_reduction,FAPROTAXv1.1
+1253,Ornithobacterium,ureolysis,FAPROTAXv1.1
+1254,Oryzihumus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1255,Oscillatoria,anoxygenic_photoautotrophy_H2_oxidizing,FAPROTAXv1.1
+1256,Oscillibacter,fermentation,FAPROTAXv1.1
+1257,Oscillochloris,anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing photoheterotrophy ureolysis,FAPROTAXv1.1
+1258,Ottowia,aerobic_chemoheterotrophy nitrate_respiration,FAPROTAXv1.1
+1259,Owenweeksia,nosZ,"(Graf et al., 2014)"
+1260,Oxalobacter,fermentation,FAPROTAXv1.1
+1261,Oxalobacteraceae,nitrogen_fixation ureolysis xylanolysis,FAPROTAXv1.1
+1262,Oxalophagus,fermentation,FAPROTAXv1.1
+1263,Oxobacter,fermentation reductive_acetogenesis,FAPROTAXv1.1
+1264,Paenibacillaceae,aerobic_chemoheterotrophy xylanolysis,FAPROTAXv1.1
+1265,Paenibacillus,"N fixation, aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation cellulolysis chitinolysis fermentation invertebrate_parasites  nitrate_reduction nitrate_respiration nitrite_respiration nitrogen_fixation plant_pathogen ureolysis xylanolysis","(Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+1266,Paenibacillusanaericanus,fermentation,FAPROTAXv1.1
+1267,Pajaroellobacter,obligate parasite,"{Brooks, R. S., et al. (2016)}"
+1268,Paludibacter,"non-N, fermentation","(Ueki et al., 2006), FAPROTAXv1.1"
+1269,Paludibaculum,Fe3 reduction,"{Kulichevskaya, I. S., et al. (2014)}"
+1270,Pandoraea,ureolysis,FAPROTAXv1.1
+1271,Pannonibacter,aerobic_chemoheterotrophy nitrate_denitrification ureolysis,FAPROTAXv1.1
+1272,Pantoea,animal_parasites_or_symbionts arsenate_detoxification human_pathogens_all plant_pathogen,FAPROTAXv1.1
+1273,Parabacteroides,human_gut,FAPROTAXv1.1
+1274,Parachlamydiaceae,intracellular_parasites,FAPROTAXv1.1
+1275,Paracoccidioides,nirK  norB,"(Graf et al., 2014)"
+1276,Paracoccus,"nirK nirS norB nosZ, dark_iron_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation knallgas_bacteria methanol_oxidation methylotrophy nitrate_denitrification nitrate_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1277,Paracraurococcus,aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy nitrate_reduction  photoheterotrophy ureolysis,FAPROTAXv1.1
+1278,Paraprevotella,fermentation xylanolysis,FAPROTAXv1.1
+1279,Parascardovia,"nirK, fermentation human_pathogens_all","(Graf et al., 2014), FAPROTAXv1.1"
+1280,Parasporobacterium,aromatic_compound_degradation,FAPROTAXv1.1
+1281,Parcubacteria group,N_cycle       aerobic,"(Antharaman et al., 2016)"
+1282,Parcubacteria_family_Candidatus Magasanikbacteria bacterium RIFCSPHIGHO2_02_FULL_50_9b,OD-1,http://www.uniprot.org/taxonomy/1752731
+1283,Parvibaculum,"Oxidize surfactants, aerobic_chemoheterotrophy hydrocarbon_degradation","(Schleheck et al., 2004) (Graf et al., 2014), FAPROTAXv1.1"
+1284,Pasteurella,"nirK, fumarate_respiration plastic_degradation ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1285,Pasteurellaceae,aerobic_chemoheterotrophy animal_parasites_or_symbionts fermentation fumarate_respiration nitrate_reduction  nitrate_respiration,FAPROTAXv1.1
+1286,Pasteuria,animal_parasites_or_symbionts,FAPROTAXv1.1
+1287,Pasteuriaceae,invertebrate_parasites,FAPROTAXv1.1
+1288,Patulibacter,nitrate_reduction,FAPROTAXv1.1
+1289,Patulibacteraceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1290,Pectinatus,fermentation,FAPROTAXv1.1
+1291,Pectobacterium,DNRA plant_pathogen,FAPROTAXv1.1
+1292,Pediococcus,fermentation,FAPROTAXv1.1
+1293,Pedobacter,non-N,"(Steyn et al., 1998) (Graf et al., 2014)"
+1294,Pedomicrobium,"Denitrification, aerobic_chemoheterotrophy manganese_oxidation nitrate_reduction","(Gebers and Beese, 1988), FAPROTAXv1.1"
+1295,Pedosphaera,non-N,"(Kant et al., 2011)"
+1296,Pelagibaca,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+1297,Pelagibacterales,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1298,Pelagicoccus,"OD-1?, ureolysis",", FAPROTAXv1.1"
+1299,Pelagicola,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1300,Pelobacter,"non-N, fermentation iron_respiration sulfur_respiration",", FAPROTAXv1.1"
+1301,Pelobacteraceae,N_cycle    H2_ox  H2_prod   aerobic,"(Antharaman et al., 2016)"
+1302,Pelolinea,fermentation xylanolysis,FAPROTAXv1.1
+1303,Pelomonas,dark_hydrogen_oxidation,FAPROTAXv1.1
+1304,Pelosinus,non-N,"(Sheloboli et al., 2007)"
+1305,Pelotomaculum,"non-N, fermentation plastic_degradation","(Imachi et al., 2007) (Imachi et al., 2002), FAPROTAXv1.1"
+1306,Penicillium,"nirK, fermentation","(Graf et al., 2014), FAPROTAXv1.1"
+1307,Peptococcaceae,aromatic_compound_degradation fermentation iron_respiration sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+1308,Peptostreptococcaceae,fermentation,FAPROTAXv1.1
+1309,Peptostreptococcus,fermentation reductive_acetogenesis,FAPROTAXv1.1
+1310,Peredibacter,non-N,"(Davidov and Jurkevitch, 2004)"
+1311,Perlucidibaca,Denitrification,"(Song et al., 2008)."
+1312,Persephonella,"nirS norB  nosZ, knallgas_bacteria nitrate_denitrification","(Graf et al., 2014), FAPROTAXv1.1"
+1313,Persicivirga,xylanolysis,FAPROTAXv1.1
+1314,Persicobacter,chitinolysis nitrate_reduction,FAPROTAXv1.1
+1315,Petrimonas,DNRA fermentation,FAPROTAXv1.1
+1316,Petrotoga,fermentation xylanolysis,FAPROTAXv1.1
+1317,Phaeobacter,"nirK  norB  nosZ, aerobic_chemoheterotrophy nitrate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+1318,Phaeospirillum,nitrogen_fixation,FAPROTAXv1.1
+1319,Phaeovibrio,photoheterotrophy,FAPROTAXv1.1
+1320,Phanerochaete,ligninolysis manganese_oxidation,FAPROTAXv1.1
+1321,Phascolarctobacterium,non-N,"(Del Dot et al., 1993)"
+1322,Phaselicystis,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1323,Phenylobacterium,"non-N, aerobic_chemoheterotrophy","(Lingens et al., 1985) (Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+1324,Phocaeicola,nosZ,"(Graf et al., 2014)"
+1325,Phorcysia,dark_hydrogen_oxidation DNRA sulfur_respiration,FAPROTAXv1.1
+1326,Photobacterium,norB nosZ,"(Jones et al., 2008) , (Graf et al., 2014)"
+1327,Photorhabdus,human_pathogens_all invertebrate_parasites,FAPROTAXv1.1
+1328,Phycicoccus,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+1329,Phycicola,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1330,Phycisphaera,fermentation,FAPROTAXv1.1
+1331,Phycisphaeraceae_family_SM1A02,Denitrification,"{Fukuga, Y., et al. (2009)}"
+1332,Phyllobacteriaceae,aerobic_chemoheterotrophy nitrate_respiration ureolysis,FAPROTAXv1.1
+1333,Phyllobacterium,plant_pathogen,FAPROTAXv1.1
+1334,Phytohabitans,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1335,Picrophilaceae,chemoheterotrophy,FAPROTAXv1.1
+1336,Pilimelia,non-N,
+1337,Piscicoccus,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1338,Pisciglobus,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+1339,Piscirickettsia,fish_parasites,FAPROTAXv1.1
+1340,Piscirickettsiaceae,aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation dark_hydrogen_oxidation dark_sulfide_oxidation dark_sulfur_oxidation fish_parasites knallgas_bacteria methanol_oxidation ureolysis,FAPROTAXv1.1
+1341,Planctomyces,"Ammox, aerobic_chemoheterotrophy nitrate_reduction  nitrate_respiration",", FAPROTAXv1.1"
+1342,Planctomycetaceae,aerobic_chemoheterotrophy nitrate_respiration ureolysis,FAPROTAXv1.1
+1343,planctomycete,nirK,"(Graf et al., 2014)"
+1344,Planctomycetes,C_fix  N_fix  N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+1345,Planococcaceae,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1346,Planococcus,aerobic_chemoheterotrophy aliphatic_non_methane_hydrocarbon_degradation,FAPROTAXv1.1
+1347,Planomicrobium,fermentation nitrate_reduction,FAPROTAXv1.1
+1348,Planomonospora,ureolysis,FAPROTAXv1.1
+1349,Planosporangium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1350,Plantactinospora,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1351,Pleomorphomonas,aerobic_chemoheterotrophy nitrogen_fixation,FAPROTAXv1.1
+1352,Plesiocystis,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1353,Plesiomonas,animal_parasites_or_symbionts fermentation human_pathogens_all human_pathogens_gastroenteritis,FAPROTAXv1.1
+1354,Pleuronectes,chitinolysis,FAPROTAXv1.1
+1355,Pneumococcus,human_pathogens_all,FAPROTAXv1.1
+1356,Polaribacter,nitrate_reduction,FAPROTAXv1.1
+1357,Polaromonas,"non-N, aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation arsenite_oxidation_detoxification ureolysis","(Weon et al., 2008) (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1358,Polyangiaceae,aerobic_chemoheterotrophy cellulolysis,FAPROTAXv1.1
+1359,Polymorphospora,ureolysis,FAPROTAXv1.1
+1360,Polymorphum,"nirS norB  nosZ, oil_bioremediation","(Graf et al., 2014), FAPROTAXv1.1"
+1361,Polynucleobacter,non-N,"(Heckmann and Schmidt, 1987) (Antharaman et al., 2016)"
+1362,Pontibaca,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+1363,Pontibacillus,nitrate_reduction,FAPROTAXv1.1
+1364,Pontibacter,"nirK  norB  nosZ, nitrogen_fixation","(Graf et al., 2014), FAPROTAXv1.1"
+1365,Ponticaulis,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1366,Ponticoccus,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1367,Pontimonas,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1368,Porphyrobacter,aerobic_anoxygenic_phototrophy anoxygenic_photoautotrophy,FAPROTAXv1.1
+1369,Porphyromonadaceae,fermentation,FAPROTAXv1.1
+1370,Porticoccus,aromatic_hydrocarbon_degradation,FAPROTAXv1.1
+1371,Prauserella,ureolysis,FAPROTAXv1.1
+1372,Prerotella,fermentation,FAPROTAXv1.1
+1373,Prevotella,"nosZ, fermentation human_pathogens_all xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1374,Prevotellaceae,animal_parasites_or_symbionts fermentation xylanolysis,FAPROTAXv1.1
+1375,Primorskyibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1376,Prochlorococcus,OD-1?,
+1377,Prolinoborus,nitrate_respiration,FAPROTAXv1.1
+1378,Prolixibacter,non-N,"(Holmes et al., 2007)"
+1379,Prolixibacteraceae_family,N fixation,"{Huang, X.-F., et al. (2014)}"
+1380,Prolixibacteraceae_family_BSV13,N fixation,"{Huang, X.-F., et al. (2014)}"
+1381,Promicromonospora,aerobic_chemoheterotrophy fermentation nitrate_reduction,FAPROTAXv1.1
+1382,Promicromonosporaceae,aerobic_chemoheterotrophy cellulolysis fermentation xylanolysis,FAPROTAXv1.1
+1383,Propionbacterium,norB,"(Jones et al., 2008)"
+1384,Propionibacteriaceae,aerobic_chemoheterotrophy fermentation nitrate_reduction  nitrate_respiration,FAPROTAXv1.1
+1385,Propionibacterium,"nirK  norB, fermentation manganese_oxidation nitrate_denitrification","(Graf et al., 2014), FAPROTAXv1.1"
+1386,Propionicicella,fermentation,FAPROTAXv1.1
+1387,Propionicimonas,fermentation,FAPROTAXv1.1
+1388,Propioniferax,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1389,Propionispira,nitrogen_fixation,FAPROTAXv1.1
+1390,Propionivibrio,Denitrification,"(Brune et al., 2002)"
+1391,Prosthecobacter,non-N,
+1392,Prosthecochloris,anoxygenic_photoautotrophy_S_oxidizing,FAPROTAXv1.1
+1393,Prosthecomicrobium,nitrate_reduction,FAPROTAXv1.1
+1394,Proteiniclasticum,fermentation,FAPROTAXv1.1
+1395,Proteobacteria,dark_oxidation_of_sulfur_compounds,FAPROTAXv1.1
+1396,Proteus,DNRA human_gut human_pathogens_all human_pathogens_diarrhea human_pathogens_pneumonia human_pathogens_septicemia ureolysis,FAPROTAXv1.1
+1397,Providencia,human_pathogens_all human_pathogens_gastroenteritis human_pathogens_septicemia ureolysis,FAPROTAXv1.1
+1398,Pseudaminobacter,dark_thiosulfate_oxidation,FAPROTAXv1.1
+1399,Pseudarthrobacter,Denitrification,"{Busse, H.-J. (2016)}"
+1400,Pseudoalteromonas,"nirK  norB, aerobic_chemoheterotrophy chitinolysis nitrate_reduction","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1401,Pseudobutyrivibrio,fermentation xylanolysis,FAPROTAXv1.1
+1402,Pseudogulbenkiania,"nirS norB  nosZ, dark_iron_oxidation","(Graf et al., 2014), FAPROTAXv1.1"
+1403,Pseudokineococcus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1404,Pseudolabrys,"non-N, aerobic_chemoheterotrophy","{K_mpfer, P., et al. (2006)}, FAPROTAXv1.1"
+1405,Pseudomonadaceae,aerobic_chemoheterotrophy cellulolysis nitrogen_fixation ureolysis,FAPROTAXv1.1
+1406,Pseudomonadales,"N_fix  N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic, animal_parasites_or_symbionts","(Antharaman et al., 2016), FAPROTAXv1.1"
+1407,Pseudomonas,"Denitrification, aerobic_chemoheterotrophy anammox aromatic_compound_degradation aromatic_hydrocarbon_degradation arsenate_respiration cellulolysis dark_hydrogen_oxidation dark_thiosulfate_oxidation denitrification dissimilatory oxidation of arsenite for energy not photosynthesis human_pathogens_all human_pathogens_pneumonia invertebrate_parasites  ligninolysis manganese_oxidation methanol_oxidation methanotrophy nitrate_denitrification nitrate_reduction nitrate_respiration nitrite_respiration nitrous_oxide_denitrification oil_bioremediation plant_pathogen plastic_degradation ureolysis xylanolysis","(Nishimori et al., 2000) (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1408,Pseudonocardia,aerobic_ammonia_oxidation aliphatic_non_methane_hydrocarbon_degradation knallgas_bacteria nitrate_reduction  ureolysis,FAPROTAXv1.1
+1409,Pseudonocardiaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1410,Pseudorhodobacter,"non-N, aerobic_chemoheterotrophy","{Uchino, Y., et al. (2002)}, FAPROTAXv1.1"
+1411,Pseudorhodoferax,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+1412,Pseudoruegeria,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1413,Pseudovibrio,"nirS norB  nosZ, aerobic_chemoheterotrophy fermentation nitrate_denitrification nitrite_denitrification nitrous_oxide_denitrification","(Graf et al., 2014), FAPROTAXv1.1"
+1414,Pseudoxanthomonas,nirK  norB,"(Graf et al., 2014)"
+1415,Pseudozobellia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1416,Psychrobacter,"nirK  norB, fermentation ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1417,Psychroflexus,nosZ,"(Jones et al., 2008) , (Graf et al., 2014)"
+1418,Psychromonas,"nosZ, fermentation nitrate_denitrification nitrate_reduction","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1419,Psychroserpens,aromatic_hydrocarbon_degradation,FAPROTAXv1.1
+1420,Psychrosinus,fermentation,FAPROTAXv1.1
+1421,Pullulanibacillus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1422,Puniceicoccaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1423,Pusillimonas,nirK  norB,"(Graf et al., 2014)"
+1424,Pyrinomonas,aerobic_chemoheterotrophy ureolysis xylanolysis,FAPROTAXv1.1
+1425,Pyrobaculum,"nirS norB nosZ, arsenate_respiration dark_hydrogen_oxidation dark_thiosulfate_oxidation iron_respiration nitrate_respiration sulfur_respiration thiosulfate_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1426,Pyrococcus,chitinolysis fermentation sulfur_respiration,FAPROTAXv1.1
+1427,Pyrodictiaceae,dark_hydrogen_oxidation fermentation knallgas_bacteria nitrate_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+1428,Pyrodictium,fermentation sulfur_respiration,FAPROTAXv1.1
+1429,Ralstonia,"Denitrification, aromatic_hydrocarbon_degradation chitinolysis knallgas_bacteria nitrate_respiration plant_pathogen ureolysis","(Yabuuchi et al., 1995) (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1430,Raoultella,ligninolysis,FAPROTAXv1.1
+1431,Rarobacteraceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1432,Rathayibacter,plant_pathogen,FAPROTAXv1.1
+1433,Reinekea,nosZ,"(Jones et al., 2008) , (Graf et al., 2014)"
+1434,Reyranella,Denitrification,"(Pagnier et al., 2011)"
+1435,Rhabdochlamydia,invertebrate_parasites,FAPROTAXv1.1
+1436,Rhabdothermus,aerobic_chemoheterotrophy nitrate_respiration sulfur_respiration,FAPROTAXv1.1
+1437,Rheinheimera,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1438,Rhizobiaceae,aerobic_chemoheterotrophy dissimilatory oxidation of arsenite for energy not photosynthesis nitrate_reduction  nitrogen_fixation ureolysis,FAPROTAXv1.1
+1439,Rhizobiales,dark_hydrogen_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis nitrate_denitrification,FAPROTAXv1.1
+1440,Rhizobium,"N fixation, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy DNRA nitrate_reduction  nitrate_respiration nitrogen_fixation plant_pathogen ureolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1441,Rhizomicrobium,aerobic_chemoheterotrophy fermentation fumarate_respiration iron_respiration nitrate_respiration,FAPROTAXv1.1
+1442,Rhizomonas,plant_pathogen,FAPROTAXv1.1
+1443,Rhodanobacter,"Denitrification, dark_thiosulfate_oxidation nitrate_reduction","(Kostka et al., 2012) (Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+1444,Rhodobacter,"N fixation, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy_Fe_oxidizing anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing dark_iron_oxidation dark_sulfide_oxidation fermentation iron_respiration manganese_oxidation nitrate_denitrification nitrate_reduction  nitrate_respiration nitrogen_fixation photoheterotrophy ureolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1445,Rhodobacteraceae,"C_fix   N_cycle  S_cycle   H2_ox   C1_ox  aerobic, aerobic_chemoheterotrophy anoxygenic_photoautotrophy cellulolysis dark_hydrogen_oxidation dark_sulfite_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation fermentation ligninolysis methanol_oxidation methylotrophy nitrate_denitrification nitrate_reduction  nitrate_respiration photoheterotrophy","(Antharaman et al., 2016), FAPROTAXv1.1"
+1446,Rhodobacterales,"nirK  norB  nosZ ,  N_cycle  S_cycle     C1_ox  aerobic","(Graf et al., 2014) , (Antharaman et al., 2016)"
+1447,Rhodobiaceae,aerobic_chemoheterotrophy photoheterotrophy,FAPROTAXv1.1
+1448,Rhodobium,aerobic_chemoheterotrophy anoxygenic_photoautotrophy_S_oxidizing fermentation nitrate_denitrification photoheterotrophy ureolysis,FAPROTAXv1.1
+1449,Rhodoblastus,anoxygenic_photoautotrophy_H2_oxidizing,FAPROTAXv1.1
+1450,Rhodococcus,"non-N, ligninolysis nitrate_reduction  plant_pathogen plastic_degradation ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1451,Rhodocyclaceae,aerobic_chemoheterotrophy chlorate_reducers fermentation fumarate_respiration iron_respiration nitrate_denitrification nitrate_reduction  nitrate_respiration nitrite_respiration nitrogen_fixation photoheterotrophy,FAPROTAXv1.1
+1452,Rhodocyclaceae dok59,Denitrification,"(Van der Zaan et al., 2012)"
+1453,Rhodocyclales,"C_fix   N_cycle  S_cycle  Fe_Cycle  H2_ox  H2_prod  C1_ox  aerobic, aerobic_chemoheterotrophy dissimilatory oxidation of arsenite for energy not photosynthesis nitrate_denitrification","(Antharaman et al., 2016), FAPROTAXv1.1"
+1454,Rhodocyclus,"non-N, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy_H2_oxidizing nitrogen_fixation",", FAPROTAXv1.1"
+1455,Rhodoferax,"Denitrification, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy_H2_oxidizing fermentation fumarate_respiration iron_respiration manganese_respiration nitrate_respiration nitrogen_fixation photoheterotrophy","(Finneran et al., 2003) (Jones et al., 2008) , (Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+1456,Rhodomicrobium,"non-N, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy_Fe_oxidizing anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing dark_iron_oxidation photoheterotrophy",", FAPROTAXv1.1"
+1457,Rhodonellum,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1458,Rhodopila,anoxygenic_photoautotrophy_S_oxidizing nitrogen_fixation ureolysis,FAPROTAXv1.1
+1459,Rhodoplanes,"Denitrification, aerobic_chemoheterotrophy anoxygenic_photoautotrophy_S_oxidizing nitrate_denitrification photoheterotrophy","(Hiraishi and Ueda, 1994), FAPROTAXv1.1"
+1460,Rhodopseudomonas,"N fixation+, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy_Fe_oxidizing anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing dark_iron_oxidation dark_sulfide_oxidation fermentation nitrate_reduction  nitrate_respiration nitrite_respiration nitrogen_fixation ureolysis","https://microbewiki.kenyon.edu/index.php/Rhodopseudomos (Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1461,Rhodospirillaceae,aerobic_chemoheterotrophy anoxygenic_photoautotrophy_S_oxidizing dark_sulfide_oxidation dark_thiosulfate_oxidation fermentation nitrate_respiration nitrogen_fixation photoheterotrophy ureolysis,FAPROTAXv1.1
+1462,Rhodospirillales,"C_fix   N_cycle  S_cycle   H2_ox  H2_prod   aerobic, aerobic_chemoheterotrophy","(Antharaman et al., 2016), FAPROTAXv1.1"
+1463,Rhodospirillum,"norB  nosZ, aerobic_anoxygenic_phototrophy anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing fermentation nitrogen_fixation","(Graf et al., 2014), FAPROTAXv1.1"
+1464,Rhodothermus,"nirK nirS  nosZ, cellulolysis xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1465,Rhodovastum,aerobic_chemoheterotrophy anoxygenic_photoautotrophy_H2_oxidizing photoheterotrophy,FAPROTAXv1.1
+1466,Rhodovulum,"nirK, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy_Fe_oxidizing anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing dark_iron_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_reduction  photoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+1467,Rickettsia,non-N,
+1468,Rickettsiella,invertebrate_parasites,FAPROTAXv1.1
+1469,Riemerella,nosZ,"(Graf et al., 2014)"
+1470,Rikenellaceae,fermentation,FAPROTAXv1.1
+1471,Rikenellaceae_family_Bact-08,non-N,0
+1472,Robiginitalea,nosZ,"(Jones et al., 2008) , (Graf et al., 2014)"
+1473,Romboutsia,Acetogenic,"{Gerritsen, J., et al. (2014)}"
+1474,Roseateles,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+1475,Roseburia,"non-N, human_gut",", FAPROTAXv1.1"
+1476,Roseibacterium,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+1477,Roseibium,"nirK, aerobic_anoxygenic_phototrophy","(Graf et al., 2014), FAPROTAXv1.1"
+1478,Roseicyclus,aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy photoheterotrophy,FAPROTAXv1.1
+1479,Roseiflexus,nirS,"(Graf et al., 2014)"
+1480,Roseimarinus,non-N,"{Wu, W.-J., et al. (2015)}"
+1481,Roseinatronobacter,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+1482,Roseisalinus,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+1483,Roseivivax,aerobic_anoxygenic_phototrophy ureolysis,FAPROTAXv1.1
+1484,Roseobacter,"nirK nirS norB nosZ, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy manganese_oxidation","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1485,Roseococcus,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+1486,Roseomonas,Denitrification,"(Rihs et al., 1993)"
+1487,Roseospira,anoxygenic_photoautotrophy_S_oxidizing ureolysis,FAPROTAXv1.1
+1488,Roseovarius,"nirK  norB nosZ, aerobic_anoxygenic_phototrophy","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1489,Rothia,"nirK  norB, nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1490,Ruania,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1491,Rubellimicrobium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1492,Rubricoccus,aerobic_chemoheterotrophy nitrate_denitrification,FAPROTAXv1.1
+1493,Rubrimonas,aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy nitrate_denitrification nitrite_denitrification ureolysis,FAPROTAXv1.1
+1494,Rubritalea,nitrate_reduction,FAPROTAXv1.1
+1495,Rubritaleaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1496,Rubritepida,aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy,FAPROTAXv1.1
+1497,Rubrivirga,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1498,Rubrivivax,"nirS norB  nosZ, aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy anoxygenic_photoautotrophy_H2_oxidizing aromatic_hydrocarbon_degradation fermentation nitrogen_fixation photoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+1499,Rubrobacter,"Denitrification, xylanolysis",", FAPROTAXv1.1"
+1500,Rubrobacteraceae,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1501,Rubrobacteriaceae,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1502,Rudaeicoccus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1503,Ruegeria,"nirS norB  nosZ, aerobic_chemoheterotrophy nitrate_denitrification nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1504,Rugamonas,nitrate_denitrification,FAPROTAXv1.1
+1505,Rugosimonospora,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1506,Ruminiclostridium 1,Cellulolytic,"refs in {Ravachol, J., et al. (2015), Sheng, T., et al. (2016)}"
+1507,Ruminobacter,fermentation,FAPROTAXv1.1
+1508,Ruminococcaceae,aromatic_compound_degradation fermentation mammal_gut,FAPROTAXv1.1
+1509,Ruminococcus,"Cellulolytic, cellulolysis dark_hydrogen_oxidation fermentation human_gut xylanolysis",", FAPROTAXv1.1"
+1510,Rummeliibacillus,non-N,"(Vaishampayan et al., 2009)"
+1511,Runella,"nosZ, fermentation","(Graf et al., 2014), FAPROTAXv1.1"
+1512,Saccharibacter,non-N,"(Jojima et al., 2004)"
+1513,Saccharomonospora,"nirK, cellulolysis nitrate_reduction  xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1514,Saccharophagus,"non-N, cellulolysis chitinolysis xylanolysis",", FAPROTAXv1.1"
+1515,Saccharopolyspora,cellulolysis ureolysis xylanolysis,FAPROTAXv1.1
+1516,Saccharospirillum,Denitrification,
+1517,Saccharothrix,aromatic_hydrocarbon_degradation ureolysis,FAPROTAXv1.1
+1518,Sagittula,cellulolysis ligninolysis,FAPROTAXv1.1
+1519,Salegentibacter,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1520,Salinibacter,nosZ,"(Jones et al., 2008) , (Graf et al., 2014)"
+1521,Salinibacterium,"non-N, aerobic_chemoheterotrophy nitrate_reduction","(Han et al., 2003), FAPROTAXv1.1"
+1522,Salinicoccus,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1523,Salinimicrobium,aerobic_chemoheterotrophy fermentation nitrate_reduction,FAPROTAXv1.1
+1524,Salinimonas,chitinolysis,FAPROTAXv1.1
+1525,Salinisphaera,"nirK  norB  nosZ, aerobic_chemoheterotrophy dark_thiosulfate_oxidation","(Graf et al., 2014), FAPROTAXv1.1"
+1526,Salmonella,dissimilatory sulfite reduction fermentation human_pathogens_all human_pathogens_gastroenteritis plant_pathogen thiosulfate_respiration,FAPROTAXv1.1
+1527,Samsonia,plant_pathogen,FAPROTAXv1.1
+1528,Sandarakinorhabdus,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+1529,Sandariconobacter,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+1530,Sanguibacter,"nirK, chitinolysis nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1531,Sanguibacteraceae,fermentation,FAPROTAXv1.1
+1532,Saprospiraceae,aerobic_chemoheterotrophy cellulolysis,FAPROTAXv1.1
+1533,SAR11 clade,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1534,SAR86 clade,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1535,Scardovia,nirK,"(Graf et al., 2014)"
+1536,Schineria,chitinolysis ureolysis,FAPROTAXv1.1
+1537,Schlesneria,xylanolysis,FAPROTAXv1.1
+1538,Sediminibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1539,Sediminibacterium,non-N,"(Qu and Yuan, 2008)"
+1540,Sediminimonas,aerobic_chemoheterotrophy nitrate_reduction  ureolysis,FAPROTAXv1.1
+1541,Segetibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1542,Segniliparus,ureolysis,FAPROTAXv1.1
+1543,Sejongia,fermentation,FAPROTAXv1.1
+1544,Selenihalanaerobacter,nitrate_respiration,FAPROTAXv1.1
+1545,Seleniivibrio,arsenate_respiration,FAPROTAXv1.1
+1546,Selenomonas,fermentation xylanolysis,FAPROTAXv1.1
+1547,Seliberia,fermentation nitrate_reduction,FAPROTAXv1.1
+1548,Serinicoccus,"nirK, nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1549,Serratia,chitinolysis DNRA fermentation human_pathogens_all invertebrate_parasites  plant_pathogen,FAPROTAXv1.1
+1550,Sharpea,fermentation,FAPROTAXv1.1
+1551,Shd-14,Cellulolytic,
+1552,Shewanella,"nirK  norB nosZ, aerobic_chemoheterotrophy arsenate_detoxification arsenate_respiration dissimilatory sulfite reduction DNRA fermentation fumarate_respiration iron_respiration manganese_oxidation manganese_respiration nitrate_denitrification nitrate_respiration nitrite_denitrification nitrite_respiration sulfur_respiration thiosulfate_respiration ureolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1553,Shigella,fermentation human_pathogens_all human_pathogens_gastroenteritis,FAPROTAXv1.1
+1554,Shihouhao,plastic_degradation,FAPROTAXv1.1
+1555,Shimia,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1556,Siansivirga,aerobic_chemoheterotrophy chitinolysis,FAPROTAXv1.1
+1557,Sideroxydans,"N fixation, dark_iron_oxidation","(Beckwith et al., 2015) (Emerson et al., 2013) (Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+1558,Silicibacter,"nirK nirS norB nosZ, aerobic_chemoheterotrophy nitrate_reduction","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1559,Siluania,non-N,"(Karpov et al., 1998)"
+1560,Simkania,non-N,
+1561,Simkaniaceae,intracellular_parasites,FAPROTAXv1.1
+1562,Simonsiella,nirK  norB  nosZ,"(Graf et al., 2014)"
+1563,Simplicispira,Denitrification,"(Grabovich et al., 2006)"
+1564,Singulisphaera,xylanolysis,FAPROTAXv1.1
+1565,Sinomonas,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+1566,Sinorhizobium,"nirK  norB nosZ, aerobic_chemoheterotrophy arsenate_detoxification dissimilatory oxidation of arsenite for energy not photosynthesis nitrate_respiration nitrogen_fixation nitrous_oxide_denitrification plant_pathogen","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1567,Skermanella,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1568,Skermania,nitrate_respiration,FAPROTAXv1.1
+1569,Slackia,DNRA nitrate_reduction,FAPROTAXv1.1
+1570,SM1A02,Denitrification,
+1571,Smb53,Cellulolytic,
+1572,Smithella,Propiote oxidation-syntrophy,"{Liu, Y., et al. (1999)}"
+1573,Snuella,aerobic_chemoheterotrophy nitrate_denitrification,FAPROTAXv1.1
+1574,Soehngenia,fermentation,FAPROTAXv1.1
+1575,Solibacillus,non-N,"(Krishmurthi et al., 2009)"
+1576,Solibacter,norB,"(Jones et al., 2008)"
+1577,Solirubrobacter,aromatic_compound_degradation,FAPROTAXv1.1
+1578,Solirubrobacteraceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1579,Solitalea,Denitrification,"(Weon et al., 2009) (Graf et al., 2014)"
+1580,Sorangium,cellulolysis fermentation xylanolysis,FAPROTAXv1.1
+1581,Sphaerisporangium,ureolysis,FAPROTAXv1.1
+1582,Sphaerobacter,non-N,"(Demharter et al., 1989) (Graf et al., 2014)"
+1583,Sphaerotilus,dark_iron_oxidation,FAPROTAXv1.1
+1584,Sphingobacteriaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1585,Sphingobacteriia,N_cycle  S_cycle      aerobic,"(Antharaman et al., 2016)"
+1586,Sphingobacterium,"non-N, nitrate_reduction  ureolysis","(YABUUCHI et al., 1983), FAPROTAXv1.1"
+1587,Sphingobium,"non-N, aromatic_compound_degradation ligninolysis","(Takeuchi et al., 2001), FAPROTAXv1.1"
+1588,Sphingomonadaceae,aerobic_chemoheterotrophy fermentation photoheterotrophy,FAPROTAXv1.1
+1589,Sphingomonadales,"N_cycle  S_cycle     C1_ox  aerobic, aerobic_chemoheterotrophy","(Antharaman et al., 2016), FAPROTAXv1.1"
+1590,Sphingomonas,"non-N, aerobic_anoxygenic_phototrophy aromatic_compound_degradation aromatic_hydrocarbon_degradation ligninolysis nitrogen_fixation plant_pathogen plastic_degradation","(Graf et al., 2014), FAPROTAXv1.1"
+1591,Sphingopyxis,N_cycle  S_cycle     C1_ox  aerobic,"(Antharaman et al., 2016)"
+1592,Sphingorhabdus,non-N,"{Jogler, M., et al. (2013)}"
+1593,Spirillum,nitrate_reduction,FAPROTAXv1.1
+1594,Spirobacillus,non-N,"(Rodrigues et al., 2008)"
+1595,Spirochaeta,"Cellulolytic, cellulolysis fermentation nitrate_reduction",", FAPROTAXv1.1"
+1596,Spirochaeta 2,Cellulolytic,
+1597,Spirochaetaceae,fermentation human_pathogens_all,FAPROTAXv1.1
+1598,Spirochaetes,C_fix  N_fix  N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic,"(Antharaman et al., 2016)"
+1599,Spiroplasma,plant_pathogen,FAPROTAXv1.1
+1600,Sporanaerobacter,fermentation,FAPROTAXv1.1
+1601,Sporichthya,nitrate_reduction,FAPROTAXv1.1
+1602,Sporichthyaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1603,Sporobacter,"Methanotroph, aromatic_compound_degradation fermentation","(Grech-Mora et al., 1996), FAPROTAXv1.1"
+1604,Sporobacterium,fermentation,FAPROTAXv1.1
+1605,Sporocytophaga,cellulolysis ureolysis,FAPROTAXv1.1
+1606,Sporolactobacillaceae,fermentation,FAPROTAXv1.1
+1607,Sporomusa,aromatic_compound_degradation fermentation methanol_oxidation reductive_acetogenesis,FAPROTAXv1.1
+1608,Sporosarcin,ureolysis,FAPROTAXv1.1
+1609,Sporosarcina,aerobic_chemoheterotrophy fermentation ureolysis,FAPROTAXv1.1
+1610,Stackebrandtia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1611,Staleya,aerobic_anoxygenic_phototrophy aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1612,Staphylococcus,"non-N, animal_parasites_or_symbionts arsenate_detoxification fermentation human_gut human_pathogens_all human_pathogens_gastroenteritis human_pathogens_pneumonia human_pathogens_septicemia nitrate_reduction  plant_pathogen ureolysis","(Jones et al., 2008), FAPROTAXv1.1"
+1613,Stappia,"nirS norB nosZ, aerobic_anoxygenic_phototrophy","(Jones et al., 2008), FAPROTAXv1.1"
+1614,Starkeya,"nirK  norB, aerobic_chemoheterotrophy dark_sulfite_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation methanol_oxidation nitrate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+1615,Stenotrophomonas,"non-N, aerobic_chemoheterotrophy aromatic_compound_degradation aromatic_hydrocarbon_degradation chitinolysis human_pathogens_all plant_pathogen",", FAPROTAXv1.1"
+1616,Steroidobacter,"Denitrification+, nitrate_denitrification","(Fahrbach et al., 2006), FAPROTAXv1.1"
+1617,Sterolibacterium,Denitrification,"(Tarlera and Denner, 2003)"
+1618,Streposporangium,nitrate_reduction,FAPROTAXv1.1
+1619,Streptacidiphilus,nitrate_reduction,FAPROTAXv1.1
+1620,Streptoalloteichus,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1621,Streptococcaceae,fermentation,FAPROTAXv1.1
+1622,Streptococcus,"non-N, animal_parasites_or_symbionts fermentation fish_parasites human_gut human_pathogens_all human_pathogens_meningitis human_pathogens_pneumonia human_pathogens_septicemia ureolysis xylanolysis",", FAPROTAXv1.1"
+1623,Streptomyces,"non-N, cellulolysis chitinolysis fermentation hydrocarbon_degradation ligninolysis nitrate_reduction  nitrate_respiration oil_bioremediation plant_pathogen ureolysis xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1624,Streptomycetaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1625,Streptosporangiaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1626,Streptosporangium,"nirK, cellulolysis nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1627,Subdoligranulum,human_gut,FAPROTAXv1.1
+1628,Subgroup 10,varied,
+1629,Subsaxibacter,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1630,Subsaximicrobium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1631,Subtercola,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1632,Succinivibrionaceae,fermentation,FAPROTAXv1.1
+1633,Sufflavibacter,aerobic_chemoheterotrophy fermentation,FAPROTAXv1.1
+1634,Sulfidobacter,manganese_oxidation,FAPROTAXv1.1
+1635,Sulfitobacter,aerobic_chemoheterotrophy dark_sulfite_oxidation,FAPROTAXv1.1
+1636,Sulfobacillus,"nirK, aerobic_chemoheterotrophy dark_sulfur_oxidation","(Graf et al., 2014), FAPROTAXv1.1"
+1637,Sulfolobaceae,aerobic_chemoheterotrophy dark_hydrogen_oxidation dark_sulfide_oxidation dark_sulfur_oxidation knallgas_bacteria sulfur_respiration,FAPROTAXv1.1
+1638,Sulfolobus,"norB, chitinolysis dark_iron_oxidation dark_sulfide_oxidation dark_sulfur_oxidation","(Jones et al., 2008), FAPROTAXv1.1"
+1639,Sulfuricella,"nirS norB  nosZ, dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_denitrification","(Graf et al., 2014), FAPROTAXv1.1"
+1640,Sulfuricurvum,"Denitrification, dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation","(Kodama and Watabe, 2004) (Antharaman et al., 2016), FAPROTAXv1.1"
+1641,Sulfuriferula,aerobic_chemoheterotrophy dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration,FAPROTAXv1.1
+1642,Sulfurifustis,dark_sulfur_oxidation dark_thiosulfate_oxidation,FAPROTAXv1.1
+1643,Sulfurihydrogenibium,aerobic_chemoheterotrophy dark_iron_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation iron_respiration knallgas_bacteria nitrate_denitrification sulfur_respiration,FAPROTAXv1.1
+1644,Sulfurimonas,"Denitrification, dark_hydrogen_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation knallgas_bacteria nitrate_denitrification","(Jones et al., 2008) , (Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+1645,Sulfurisoma,Denitrification,"(Kojima and Fukui, 2014)"
+1646,Sulfuritalea,"Denitrification, dark_hydrogen_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration",", FAPROTAXv1.1"
+1647,Sulfurivirga,dark_thiosulfate_oxidation,FAPROTAXv1.1
+1648,Sulfurococcus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1649,Sulfurospirillum,"Sulfur reduction, aerobic_chemoheterotrophy arsenate_respiration dark_hydrogen_oxidation dark_sulfide_oxidation dissimilatory sulfite reduction DNRA fermentation fumarate_respiration iron_respiration manganese_respiration nitrate_respiration nitrite_ammonification sulfur_respiration thiosulfate_respiration","refs in {Buttet, G. F., et al. (2013)}, FAPROTAXv1.1"
+1650,Sulfurovum,"nirS norB  nosZ, dark_hydrogen_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration sulfur_respiration thiosulfate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+1651,Sunxiuqinia,non-N,"(Qu et al., 2011)"
+1652,SUP05,dark_sulfide_oxidation nitrate_respiration,FAPROTAXv1.1
+1653,Sutterella,Denitrification,"(Wexler et al., 1996)"
+1654,SWB02,varied,
+1655,Symbiobacterium,"nirK, nitrate_reduction","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1656,Synechocystis,norB,"(Jones et al., 2008)"
+1657,Synergistes,animal_parasites_or_symbionts,FAPROTAXv1.1
+1658,Syntrophaceae,fermentation sulfate_respiration,FAPROTAXv1.1
+1659,Syntrophobacter,"Methanotroph, dark_hydrogen_oxidation dissimilatory sulfite reduction fermentation plastic_degradation sulfate_respiration","(Boone and Bryant, 1980) (Jones et al., 2008), FAPROTAXv1.1"
+1660,Syntrophobacteraceae,dark_hydrogen_oxidation dissimilatory sulfite reduction fermentation sulfate_respiration,FAPROTAXv1.1
+1661,Syntrophobacterales,C_fix    S_cycle     C1_ox  aerobic,"(Antharaman et al., 2016)"
+1662,Syntrophococcus,reductive_acetogenesis,FAPROTAXv1.1
+1663,Syntrophomonadaceae,fermentation,FAPROTAXv1.1
+1664,Syntrophorhabdus,"Denitrification+, aromatic_compound_degradation fermentation","{Qiu, Y.-L., et al. (2008)}, FAPROTAXv1.1"
+1665,Syntrophospora,fermentation,FAPROTAXv1.1
+1666,Syntrophothermus,fermentation,FAPROTAXv1.1
+1667,Syntrophus,"Methanotroph, plastic_degradation","(Mountfort et al., 1984) (Antharaman et al., 2016), FAPROTAXv1.1"
+1668,Tamlana,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1669,Taonella,fermentation,FAPROTAXv1.1
+1670,Tateyamaria,aerobic_chemoheterotrophy dark_thiosulfate_oxidation fermentation knallgas_bacteria nitrate_respiration,FAPROTAXv1.1
+1671,taxon_1,methanotrophy,FAPROTAXv1.1
+1672,Taylorella,nirK,"(Graf et al., 2014)"
+1673,Telluria,nitrate_reduction,FAPROTAXv1.1
+1674,Telmatobacter,aerobic_chemoheterotrophy cellulolysis fermentation xylanolysis,FAPROTAXv1.1
+1675,Telmatospirillum,"N fixation-methanogen, aerobic_chemoheterotrophy fermentation nitrogen_fixation","{Sizova, M. V., et al. (2007)}, FAPROTAXv1.1"
+1676,Tenacibaculuma,nitrate_reduction,FAPROTAXv1.1
+1677,Tenericutes,H2_prod   aerobic,"(Antharaman et al., 2016)"
+1678,Tepidibacillus,dark_hydrogen_oxidation fermentation iron_respiration manganese_respiration nitrate_respiration,FAPROTAXv1.1
+1679,Tepidibacter,fermentation,FAPROTAXv1.1
+1680,Tepidimonas,dark_oxidation_of_sulfur_compounds,FAPROTAXv1.1
+1681,Terrabacter,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1682,Terracoccus,ureolysis,FAPROTAXv1.1
+1683,Terrimonas,non-N,"{Xie, C.-H. and A. Yokota (2006)}"
+1684,Tersicoccus,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1685,Tessaracoccus,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1686,Tetragenococcus,fermentation,FAPROTAXv1.1
+1687,Tetrasphaera,nitrate_reduction  ureolysis,FAPROTAXv1.1
+1688,Thalassobacter,aerobic_anoxygenic_phototrophy,FAPROTAXv1.1
+1689,Thalassobaculum,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1690,Thalassobius,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1691,Thalassococcus,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1692,Thalassolituus,oil_bioremediation,FAPROTAXv1.1
+1693,Thalassospira,"nirS norB  nosZ, aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation nitrate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+1694,Thauera,"nirS norB nosZ, aromatic_compound_degradation aromatic_hydrocarbon_degradation nitrate_denitrification nitrate_respiration nitrite_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1695,Thaumarchaeota,"C_fix    S_cycle  Fe_Cycle   H2_prod  C1_ox  aerobic, aerobic_ammonia_oxidation","(Antharaman et al., 2016), FAPROTAXv1.1"
+1696,Themoanaerobacterium,fermentation xylanolysis,FAPROTAXv1.1
+1697,Thennosipho,fermentation sulfur_respiration,FAPROTAXv1.1
+1698,Thermacetogenium,fermentation sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+1699,Thermaerobacter,"nirK, aerobic_chemoheterotrophy","(Graf et al., 2014), FAPROTAXv1.1"
+1700,Thermicanus,fermentation,FAPROTAXv1.1
+1701,Thermincola,dark_hydrogen_oxidation iron_respiration,FAPROTAXv1.1
+1702,Thermithiobacillus,dark_sulfide_oxidation dark_sulfite_oxidation dark_thiosulfate_oxidation,FAPROTAXv1.1
+1703,Thermoacetogenium,reductive_acetogenesis,FAPROTAXv1.1
+1704,Thermoactinomyces,xylanolysis,FAPROTAXv1.1
+1705,Thermoanaerobacter,cellulolysis dissimilatory sulfite reduction fermentation iron_respiration nitrate_reduction  reductive_acetogenesis xylanolysis,FAPROTAXv1.1
+1706,Thermoanaerobacteraceae,dark_hydrogen_oxidation DNRA fermentation nitrate_respiration sulfate_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+1707,Thermoanaerobacteriaceae,reductive_acetogenesis,FAPROTAXv1.1
+1708,Thermoanaerobacterium,dissimilatory sulfite reduction fermentation nitrate_reduction  xylanolysis,FAPROTAXv1.1
+1709,Thermoanaerobaculaceae_family_Subgroup 10,varied,
+1710,Thermoanaerobaculum,fermentation iron_respiration manganese_respiration,FAPROTAXv1.1
+1711,Thermobaculum,nirK,"(Graf et al., 2014)"
+1712,Thermobifida,"nirK, cellulolysis nitrate_reduction  xylanolysis","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1713,Thermobispora,nirK,"(Graf et al., 2014)"
+1714,Thermochromatium,ureolysis,FAPROTAXv1.1
+1715,Thermococcaceae,chemoheterotrophy sulfur_respiration,FAPROTAXv1.1
+1716,Thermococci,chemoheterotrophy,FAPROTAXv1.1
+1717,Thermococcus,chitinolysis fermentation xylanolysis,FAPROTAXv1.1
+1718,Thermocrispum,nitrate_reduction,FAPROTAXv1.1
+1719,Thermodesulfatator,dark_hydrogen_oxidation sulfate_respiration,FAPROTAXv1.1
+1720,Thermodesulfobacteria,sulfate_respiration,FAPROTAXv1.1
+1721,Thermodesulfobacterium,dark_hydrogen_oxidation dissimilatory sulfite reduction sulfate_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+1722,Thermodesulfobiaceae,nitrate_respiration sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+1723,Thermodesulfobium,dark_hydrogen_oxidation nitrate_respiration sulfate_respiration thiosulfate_respiration,FAPROTAXv1.1
+1724,Thermodesulforhabdus,dissimilatory sulfite reduction sulfate_respiration,FAPROTAXv1.1
+1725,Thermodesulforhabdus norvegicus,sulfate_respiration,FAPROTAXv1.1
+1726,Thermodesulfovibrio,"C_fix   N_cycle  S_cycle   H2_ox  H2_prod  C1_ox  aerobic, nitrate_respiration","(Antharaman et al., 2016), FAPROTAXv1.1"
+1727,Thermoflexus,aerobic_chemoheterotrophy fermentation fumarate_respiration,FAPROTAXv1.1
+1728,Thermogemmatispora,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1729,Thermogladius,fermentation,FAPROTAXv1.1
+1730,Thermoleophilum,aliphatic_non_methane_hydrocarbon_degradation,FAPROTAXv1.1
+1731,Thermolithobacter,dark_hydrogen_oxidation fumarate_respiration thiosulfate_respiration,FAPROTAXv1.1
+1732,Thermomicrobium,nosZ,"(Graf et al., 2014)"
+1733,Thermomonas,non-N,"(Busse et al., 2002)"
+1734,Thermomonospora,cellulolysis ligninolysis nitrate_reduction  xylanolysis,FAPROTAXv1.1
+1735,Thermomonosporaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1736,Thermonospora,xylanolysis,FAPROTAXv1.1
+1737,Thermoplasmata,chemoheterotrophy methanogenesis methanogenesis_by_reduction_of_methyl_compounds_with_H2 methylotrophy,FAPROTAXv1.1
+1738,Thermoplasmataceae,chemoheterotrophy sulfur_respiration,FAPROTAXv1.1
+1739,Thermopolyspora,nitrate_reduction  xylanolysis,FAPROTAXv1.1
+1740,Thermoproteaceae,dark_hydrogen_oxidation nitrate_respiration,FAPROTAXv1.1
+1741,Thermoproteales,dark_hydrogen_oxidation sulfur_respiration,FAPROTAXv1.1
+1742,Thermosipho,fermentation,FAPROTAXv1.1
+1743,Thermosulfidibacter,dark_hydrogen_oxidation sulfur_respiration,FAPROTAXv1.1
+1744,Thermoterrabacterium,iron_respiration,FAPROTAXv1.1
+1745,Thermothrix,dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_denitrification,FAPROTAXv1.1
+1746,Thermotoga,cellulolysis iron_respiration xylanolysis,FAPROTAXv1.1
+1747,Thermotogaceae,fermentation thiosulfate_respiration,FAPROTAXv1.1
+1748,Thermotogae,fermentation,FAPROTAXv1.1
+1749,Thermovenabulum,DNRA fermentation iron_respiration manganese_respiration sulfur_respiration thiosulfate_respiration,FAPROTAXv1.1
+1750,Thermovibrio,dark_hydrogen_oxidation DNRA sulfur_respiration,FAPROTAXv1.1
+1751,Thermovirga,fermentation,FAPROTAXv1.1
+1752,Thermus,"nirK nirS norB, arsenate_respiration arsenite_oxidation_detoxification dissimilatory sulfite reduction iron_respiration nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1753,thetaiotaomicron,human_gut,FAPROTAXv1.1
+1754,Thialkalivibrio,dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration thiosulfate_respiration,FAPROTAXv1.1
+1755,Thioalbus,dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration,FAPROTAXv1.1
+1756,Thioalkalimicrobium,dark_sulfide_oxidation dark_thiosulfate_oxidation,FAPROTAXv1.1
+1757,Thioalkalivibrio,"nirK  norB  nosZ, dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration","(Graf et al., 2014), FAPROTAXv1.1"
+1758,Thiobacillus,"Sulfur oxidation, aerobic_ammonia_oxidation aerobic_chemoheterotrophy dark_hydrogen_oxidation dark_iron_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis sulfite reduction iron_respiration nitrate_denitrification  nitrate_respiration ureolysis","(Jones et al., 2008) , (Graf et al., 2014) , (Antharaman et al., 2016), FAPROTAXv1.1"
+1759,Thiobacter,non-N,"(Hirayama et al., 2005)"
+1760,Thiobios,dark_thiosulfate_oxidation,FAPROTAXv1.1
+1761,Thiocapsa,"norB  nosZ, anoxygenic_photoautotrophy_S_oxidizing","(Graf et al., 2014), FAPROTAXv1.1"
+1762,Thioclava,aerobic_chemoheterotrophy dark_oxidation_of_sulfur_compounds ureolysis,FAPROTAXv1.1
+1763,Thiococcus,nitrogen_fixation,FAPROTAXv1.1
+1764,Thiocystis,aerobic_anoxygenic_phototrophy anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing nitrogen_fixation ureolysis,FAPROTAXv1.1
+1765,Thiodictyon,dark_iron_oxidation,FAPROTAXv1.1
+1766,Thiofractor,dark_hydrogen_oxidation sulfur_respiration,FAPROTAXv1.1
+1767,Thioglobus,aerobic_chemoheterotrophy dark_sulfur_oxidation dark_thiosulfate_oxidation,FAPROTAXv1.1
+1768,Thiogranum,dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation,FAPROTAXv1.1
+1769,Thiohalobacter,dark_thiosulfate_oxidation,FAPROTAXv1.1
+1770,Thiohalocapsa,anoxygenic_photoautotrophy_H2_oxidizing anoxygenic_photoautotrophy_S_oxidizing,FAPROTAXv1.1
+1771,Thiohalomonas,dark_sulfide_oxidation dark_thiosulfate_oxidation nitrate_denitrification nitrite_respiration,FAPROTAXv1.1
+1772,Thiohalophilus,Denitrification,"(Sorokin et al., 2007)?"
+1773,Thiolapillus,dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration,FAPROTAXv1.1
+1774,Thiomicrospira,dark_hydrogen_oxidation dark_sulfide_oxidation dark_thiosulfate_oxidation nitrate_denitrification,FAPROTAXv1.1
+1775,Thiomonas,aerobic_ammonia_oxidation aerobic_chemoheterotrophy arsenite_oxidation_detoxification dark_iron_oxidation dark_sulfide_oxidation dark_sulfur_oxidation dark_thiosulfate_oxidation dissimilatory oxidation of arsenite for energy not photosynthesis knallgas_bacteria ureolysis,FAPROTAXv1.1
+1776,Thioprofundum,dark_sulfur_oxidation dark_thiosulfate_oxidation nitrate_respiration,FAPROTAXv1.1
+1777,Thioreductor,dark_hydrogen_oxidation DNRA sulfur_respiration,FAPROTAXv1.1
+1778,Thiorhodococcus,nitrogen_fixation,FAPROTAXv1.1
+1779,Thiorhodospira,photoheterotrophy,FAPROTAXv1.1
+1780,Thiosphaera,aerobic_ammonia_oxidation aerobic_chemoheterotrophy dark_oxidation_of_sulfur_compounds dark_sulfide_oxidation dark_thiosulfate_oxidation knallgas_bacteria nitrate_denitrification nitrite_respiration,FAPROTAXv1.1
+1781,Thiothrix,"Denitrification, nitrate_reduction  ureolysis","(Williams and Unz, 1985), FAPROTAXv1.1"
+1782,Thiotrichaceae,aerobic_chemoheterotrophy dark_oxidation_of_sulfur_compounds dark_sulfide_oxidation DNRA nitrate_respiration nitrogen_fixation,FAPROTAXv1.1
+1783,Thiovulum,dark_sulfide_oxidation,FAPROTAXv1.1
+1784,Tindallia,iron_respiration reductive_acetogenesis,FAPROTAXv1.1
+1785,Tistlia,aerobic_chemoheterotrophy nitrogen_fixation,FAPROTAXv1.1
+1786,Tistrella,aerobic_chemoheterotrophy nitrate_reduction,FAPROTAXv1.1
+1787,Tolumonas,non-N,"{Fischer-Romero, C., et al. (1996)}"
+1788,Treponema,"non-N, dark_hydrogen_oxidation fermentation human_pathogens_all nitrogen_fixation reductive_acetogenesis","(Antharaman et al., 2016), FAPROTAXv1.1"
+1789,treptococcus,fish_parasites,FAPROTAXv1.1
+1790,Trichococcus,"Denitrification, xylanolysis","(Liu et al., 2002), FAPROTAXv1.1"
+1791,Trichodesmium,nitrogen_fixation,FAPROTAXv1.1
+1792,Trichophyton,nirK  norB,"(Graf et al., 2014)"
+1793,Tropicibacter,aerobic_chemoheterotrophy aromatic_hydrocarbon_degradation plastic_degradation,FAPROTAXv1.1
+1794,Tropicimonas,aerobic_chemoheterotrophy hydrocarbon_degradation,FAPROTAXv1.1
+1795,Tsukamurella,ureolysis,FAPROTAXv1.1
+1796,Tsukamurellaceae,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1797,Tumebacillus,aerobic_chemoheterotrophy dark_thiosulfate_oxidation nitrate_reduction,FAPROTAXv1.1
+1798,Turneriella,nirK,"(Graf et al., 2014)"
+1799,Ulvibacter,nitrate_reduction,FAPROTAXv1.1
+1800,Uncinocarpus,nirK  norB,"(Graf et al., 2014)"
+1801,uncultured,uncultured_bacteria,"(Graf et al., 2014)"
+1802,uncultured archaeon,uncultured_archaea,
+1803,uncultured bacterium,uncultured_bacteria,
+1804,uncultured Bacteroidetes bacterium,non-N,0
+1805,uncultured Candidatus Omnitrophus,Magnetatactic+,"{Kolinko, S., et al. (2016)}"
+1806,uncultured Chlorobi bacterium,Sulfur oxidation,https://en.wikipedia.org/wiki/Green_sulfur_bacteria
+1807,uncultured euryarchaeote,uncultured_eukaryote,
+1808,uncultured Microgenomates group bacterium,uncultured_bacteria,
+1809,uncultured organism,uncultured,
+1810,uncultured Parcubacteria group bacterium,CPR-OD1,"{Nelson, W. C. and J. C. Stegen (2015)}"
+1811,uncultured soil bacterium,uncultured_bacteria,
+1812,Undibacterium,non-N,"(K_mpfer et al., 2007)"
+1813,Unknown,human_gut,FAPROTAXv1.1
+1814,Ureaplasma,human_pathogens_all,FAPROTAXv1.1
+1815,Vagococcus,fermentation,FAPROTAXv1.1
+1816,Varibaculum,nitrate_reduction,FAPROTAXv1.1
+1817,varied,varied,
+1818,Variovorax,"non-N, arsenate_detoxification plastic_degradation","{Willems, A., et al. (1991)}, FAPROTAXv1.1"
+1819,Veillonella,non-N,
+1820,Veillonellaceae,dark_hydrogen_oxidation fermentation iron_respiration nitrate_reduction  reductive_acetogenesis,FAPROTAXv1.1
+1821,Venenivibrio,knallgas_bacteria,FAPROTAXv1.1
+1822,Verrucomicrobia,"N_cycle  S_cycle    H2_prod   aerobic, methanol_oxidation","(Antharaman et al., 2016), FAPROTAXv1.1"
+1823,Verrucomicrobiaceae,aerobic_chemoheterotrophy fermentation ureolysis,FAPROTAXv1.1
+1824,Verrucomicrobiales,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1825,Verrucomicrobium,non-N,
+1826,Viarovorax,plastic_degradation,FAPROTAXv1.1
+1827,Vibrio,"nosZ, animal_parasites_or_symbionts aromatic_hydrocarbon_degradation chitinolysis fermentation fish_parasites fumarate_respiration human_pathogens_all human_pathogens_diarrhea xylanolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1828,Vibrionaceae,aerobic_chemoheterotrophy fermentation nitrate_reduction,FAPROTAXv1.1
+1829,Vibrionales,fermentation,FAPROTAXv1.1
+1830,Victivallaceae,fermentation,FAPROTAXv1.1
+1831,Victivallis,fermentation,FAPROTAXv1.1
+1832,Virgibacillus,"nirK, aerobic_chemoheterotrophy nitrate_reduction  nitrate_respiration ureolysis","(Graf et al., 2014), FAPROTAXv1.1"
+1833,Virgisporangium,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1834,Vogesella,aerobic_chemoheterotrophy nitrate_denitrification,FAPROTAXv1.1
+1835,Vulcanithermus,knallgas_bacteria nitrate_respiration,FAPROTAXv1.1
+1836,Waddliaceae,intracellular_parasites,FAPROTAXv1.1
+1837,Wautersia,plant_pathogen,FAPROTAXv1.1
+1838,Wautersiella,ureolysis,FAPROTAXv1.1
+1839,WCHB1-05,Cellulolytic,
+1840,Wchb1-05_f__Anaerolineacaea,varied,
+1841,Weissella,fermentation,FAPROTAXv1.1
+1842,Wenxinia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1843,Williamsia,cellulolysis ureolysis,FAPROTAXv1.1
+1844,Wohlfahrtiimonas,human_pathogens_all,FAPROTAXv1.1
+1845,Wolinella,"nosZ, arsenate_respiration dark_hydrogen_oxidation dissimilatory sulfite reduction DNRA fumarate_respiration nitrate_respiration nitrite_ammonification sulfur_respiration","(Jones et al., 2008) , (Graf et al., 2014), FAPROTAXv1.1"
+1846,Xanthobacter,aerobic_chemoheterotrophy dark_hydrogen_oxidation dark_thiosulfate_oxidation nitrate_reduction  nitrogen_fixation,FAPROTAXv1.1
+1847,Xanthomonadaceae,aerobic_chemoheterotrophy chitinolysis nitrate_respiration ureolysis,FAPROTAXv1.1
+1848,Xanthomonadales,N_cycle  S_cycle     C1_ox  aerobic,"(Antharaman et al., 2016)"
+1849,Xanthomonas,arsenite_oxidation_detoxification dark_sulfide_oxidation plant_pathogen plastic_degradation xylanolysis,FAPROTAXv1.1
+1850,Xenorhabdus,invertebrate_parasites,FAPROTAXv1.1
+1851,Xylanimicrobium,fermentation nitrate_reduction,FAPROTAXv1.1
+1852,Xylanimonas,"nirK, cellulolysis nitrate_reduction","(Graf et al., 2014), FAPROTAXv1.1"
+1853,Xylella,plant_pathogen,FAPROTAXv1.1
+1854,Xylophilus,plant_pathogen,FAPROTAXv1.1
+1855,Yaniella,aerobic_chemoheterotrophy ureolysis,FAPROTAXv1.1
+1856,Yeosuana,aromatic_compound_degradation,FAPROTAXv1.1
+1857,Yersinia,animal_parasites_or_symbionts human_pathogens_all human_pathogens_gastroenteritis invertebrate_parasites  nitrate_reduction,FAPROTAXv1.1
+1858,Yonghaparkia,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1859,Youngiibacter,fermentation,FAPROTAXv1.1
+1860,Zavarzinia,ureolysis,FAPROTAXv1.1
+1861,Zhihengliuella,aerobic_chemoheterotrophy,FAPROTAXv1.1
+1862,Zobellella,aerobic_chemoheterotrophy fermentation nitrate_denitrification nitrate_reduction  nitrous_oxide_denitrification ureolysis,FAPROTAXv1.1
+1863,Zobellia,norB  nosZ,"(Graf et al., 2014)"
+1864,Zoogloea,non-N,
+1865,Zunongwangia,aerobic_chemoheterotrophy nitrate_denitrification xylanolysis,FAPROTAXv1.1
+1866,Zymomonas,fermentation,FAPROTAXv1.1
+1866,Treponema 2,"non-N, dark_hydrogen_oxidation fermentation human_pathogens_all nitrogen_fixation reductive_acetogenesis","(Antharaman et al., 2016), FAPROTAXv1.1"
+1866,Methanocella,"methanogenesis, archaea","(Sakai et al., 2008)"
+1866,SWB02,"varied, Hyphomonadaceae_family",
+1866,Rhynchosporium orthosporum,"fungus, 18S",
+1866,Rhynchosporium agropyri,"fungus, 18S",
+1866,Terrimicrobium,"non-N, carbohydrate-fermenting","(Qui et al., 2014)"
+1866,Candidatus Riegeria,intracellular_parasites,"(Gruber-Vodicka et al., 2011)"
+1866,Flavihumibacter,"non-N, aerobic","(Zhang et al., 2013)"
+1866,Ohtaekwangia,non-N,"(Yoon et al., 2011)"
+1866,Fimbriiglobus,non-N,"(Kulichevskaya et al., 2017)"
