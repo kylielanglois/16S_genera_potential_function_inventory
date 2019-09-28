@@ -16,11 +16,11 @@ Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory.
 word document last updated: February 18, 2019, 759 genera, 212 EndNote citations
 * ### This document is most up-to-date document
 * 16S_genera_function_inventory.txt is a tab-delimited file of the inventory  
-* 033119 is the most current file
+* 080219 is the most current file
 ## To download: click "Raw" and you will download a comma separated file that can be opened in Excel in the proper format
 
 
-*033119 includes genera in the FAPROTAX inventory*
+*033119, 080219 includes genera in the FAPROTAX inventory*
 *FAPROTAX references at FAPROTAX website*
              
  *081018, 010819, 033119 update includes genera not in the 072518 update*  
