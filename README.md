@@ -16,6 +16,7 @@ Langlois, Kylie (2021). 16S_genera_potential_function_inventory. GitHub. https:/
 ## To download: click "Raw" and you will download a comma separated file that can be opened in Excel in the proper format
 
 *FAPROTAX references at FAPROTAX website*
+
 *includes information on the presence of functional genes found in genera from 3 studies (see below)*  
    
 &nbsp;&nbsp;&nbsp;   Anantharaman, K., et al. (2016). "Thousands of microbial genomes shed light on interconnected biogeochemical processes in an aquifer    system." Nature communications 7: 13219.  
