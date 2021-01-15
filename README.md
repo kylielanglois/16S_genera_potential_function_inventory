@@ -4,7 +4,7 @@
 
 Genera were assigned a potential function by conducting a literature review and assuming all members of a genus were potentially capable of the metabolism of the type species (unless otherwise noted specifically). Some cases, potential function could be assigned at family level or higher. 
 
-FAPROTAX v.1.1 was accessed from http://www.zoology.ubc.ca/louca/FAPROTAX/lib/php/index.php
+FAPROTAX v.1.1 was accessed from http://www.loucalab.com/archive/FAPROTAX/lib/php/index.php?section=Download
 
 Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory. 
 
