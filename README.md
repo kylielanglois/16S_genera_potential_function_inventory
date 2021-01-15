@@ -1,5 +1,5 @@
 # 16S_genera_potential_function_inventory
- for post high-throughput sequencing analysis
+ For post high-throughput sequencing analysis
  intially created for QIIME1, QIIME2, and mothur pipelines
 
 Genera were assigned a potential function by conducting a literature review and assuming all members of a genus were potentially capable of the metabolism of the type species (unless otherwise noted specifically). Some cases, potential function could be assigned at family level or higher. 
@@ -12,7 +12,7 @@ Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory.
 Langlois, Kylie (2021). 16S_genera_potential_function_inventory. GitHub. https://github.com/kylielanglois/16S_genera_potential_function_inventory
 
 * 16S_genera_function_inventory.txt is a tab-delimited file of the inventory  
-* 2020_0723 is the most current file
+* 2020_0703 is the most current file with 1,876 genera
 ## To download: click "Raw" and you will download a comma separated file that can be opened in Excel in the proper format
 
 *FAPROTAX references at FAPROTAX website*
@@ -25,7 +25,7 @@ Langlois, Kylie (2021). 16S_genera_potential_function_inventory. GitHub. https:/
 
 ## To use with R
 ```
-fun <- read.csv("2020_0723_16S_genera_function_inventory_faprotax_refs.csv", head=T)
+fun <- read.csv("2020_0703_16S_genera_function_inventory_faprotax_refs.csv", head=T)
 dat <- read.csv("YOURTAXONOMYDATA.csv", head=T)
 fun$gen <- toupper(fun$gen)
 dat$tax <- toupper(dat$tax) #YOUR TAXONOMY COLUMN, AT GENUS LEVEL
