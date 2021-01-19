@@ -4,18 +4,20 @@
 
 Genera were assigned a potential function by conducting a literature review and assuming all members of a genus were potentially capable of the metabolism of the type species (unless otherwise noted specifically). Some cases, potential function could be assigned at family level or higher. 
 
-FAPROTAX v.1.1 was accessed from http://www.loucalab.com/archive/FAPROTAX/lib/php/index.php?section=Download
-
 Nitrogen, carbon, iron, and sulfur cyling are the focus of this inventory. 
 
 # Please reference this repository if using the 16S function inventory 
 Langlois, Kylie (2021). 16S_genera_potential_function_inventory. GitHub. https://github.com/kylielanglois/16S_genera_potential_function_inventory
 
-* 16S_genera_function_inventory.txt is a tab-delimited file of the inventory  
-* 2020_0703 is the most current file with 1,876 genera
+* 16S_genera_function_inventory.csv is a comma-delimited file of the inventory  
+* 2021_0118 is the most current file with 1,855 genera
 ## To download: click "Raw" and you will download a comma separated file that can be opened in Excel in the proper format
 
-*FAPROTAX references at FAPROTAX website*
+* 2021_genus_inventory_references.doc is a Word file (Mac format) with references for 2021_0118 inventory
+## To download: click "Raw" and you will download a Word file
+
+*(Louca et al. 2016) references at FAPROTAX website*
+FAPROTAX v.1.1 was accessed from http://www.loucalab.com/archive/FAPROTAX/lib/php/index.php?section=Download
 
 *includes information on the presence of functional genes found in genera from 3 studies (see below)*  
    
